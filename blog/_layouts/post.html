@@ -1,0 +1,86 @@
+---
+layout: default
+---
+<meta property="og:title" content="{{ page.title }}"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="{{ site.url }}{{ page.thumbnail }}"/>
+<meta property="og:url" content="{{ page.url | absolute_url }}"/>
+<meta property="og:site_name" content="Blog do Grana.io"/>
+
+<meta property="twitter:card" content="summary"/>
+<meta property="twitter:title" content="{{ page.title }}"/>
+<meta property="twitter:url" content="{{ page.url | absolute_url }}"/>
+<meta property="twitter:image" content="{{ site.url }}{{ page.thumbnail }}"/>
+<meta property="twitter:title" content="{{ page.title }}"/>
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="db tc mw7-l center mb4">
+    <p class="f5 fw5 moon-gray italic fr mt0"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%d.%m.%Y" }}</time></p>
+
+    {% if page.draft %}
+      <h3 class="bg-red pa2">DRAFT</h3>
+    {% endif %}
+
+    <div class="w-35 mw5 center">
+      <img class="mw5 w-90 center bg-light-gray pa1" src="{{ page.thumbnail }}" />
+    </div>
+
+    <h1 class="f2 fw5 lh-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a class="grow dib blue f6 fw6 br2 bg-light-blue ph2 pv1 mr1" href="/blog/tag/{{ tag_name }}">
+        {{ tag_name }}
+      </a>
+    {% endfor %}
+  </header>
+
+  <div class="black-80 f45 mw7-l center db lh-copy" itemprop="articleBody">
+    {{ content }}
+
+    <article class="dt w-100 bt bb b--black-05 pb2 mv4">
+      <div class="pt3">
+        <div class="dtc w2 w3-ns v-mid">
+          <img src="https://pbs.twimg.com/profile_images/1023254103324012544/JbQT6Rfp_400x400.jpg" class="ba b--black-10 db br-100 w2 w3-ns h2 h3-ns">
+        </div>
+        <div class="dtc v-mid pl3">
+          <h1 class="f7 lh-title moon-gray mv0 ttu">escrito por</h1>
+          <h1 class="f45 fw6 lh-title black mt1 mb0">Bruno Buccolo</h1>
+          <h2 class="f5 fw4 mt0 mb0 black-60">Fundador do <a href='/'>Grana.io</a> <br/>Simplifique suas finanças com os nossos <a href='/'>complementos</a> para Google Sheets.</h2>
+        </div>
+      </div>
+    </article>
+
+    <div class="mv4" id="related-posts">
+      <h3 class='mb2'>Você pode se interessar também</h3>
+        <div>
+        {% for p in site.related_posts limit: 4 %}
+          {% unless p.title == page.title %}
+            <div class="mt4 cf w-100">
+              <div class="w-15 mw5 fl">
+                <a href="{{ p.url | relative_url }}">
+                  <img class="mw5 w-90 center bg-light-gray pa1 br2" src="{{ p.thumbnail }}" />
+                </a>
+              </div>
+
+              <div class="w-85 fl pl3">
+                <h3 class="mt2 mb0 pb2">
+                  <a class="fw4 near-black" href="{{ p.url | relative_url }}">{{ p.title | escape }}</a>
+                </h3>
+
+                <div>
+                  {% for tag in p.tags %}
+                    {% capture tag_name %}{{ tag }}{% endcapture %}
+                    <a class="grow dib blue f7 fw6 br2 bg-light-blue ph2 pv1 mr1" href="/blog/tag/{{ tag_name }}">
+                      {{ tag_name }}
+                    </a>
+                  {% endfor %}
+                </div>
+              </div>
+            </div>
+          {% endunless %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</article>

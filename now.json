@@ -1,1 +1,8 @@
-{"version":2,"name":"grana.io","builds":[{"src":"**/*.js","use":"@now/node"}]}
+{
+  "version": 2,
+  "name": "grana.io",
+  "builds": [
+    { "src": "**/*.js", "use": "@now/node" },
+    { "src": "blog/build.sh", "use": "@now/static-build", "config": { "distDir": "_site" } }
+  ]
+}

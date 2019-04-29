@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<div class="cf">
+  <h1 class="fw6 mb4">Todos os posts</h1>
+
+  {% for post in site.posts %}
+    {% unless post.draft %}
+
+      {% comment %} TODO: Extract partial of this shit (repeated in tagpage) {% endcomment %}
+      <div class="mt4 cf w-100">
+        <div class="w-25 mw5 fl">
+          <a href="{{ post.url | relative_url }}">
+            <img class="mw5 w-90 center bg-light-gray pa1" src="{{ post.thumbnail }}" />
+          </a>
+        </div>
+
+        <div class="w-75 fl pl3">
+          <h2 class="mt2">
+            <a class="fw5 near-black" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </h2>
+
+          <div>
+            {% for tag in post.tags %}
+              {% capture tag_name %}{{ tag }}{% endcapture %}
+              <a class="grow dib blue f6 fw6 br2 bg-light-blue ph2 pv1 mr1" href="/blog/tag/{{ tag_name }}">
+                {{ tag_name }}
+              </a>
+            {% endfor %}
+          </div>
+
+          <p class="f5 fw5 silver italic"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%d/%m/%Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</p>
+        </div>
+      </div>
+
+    {% endunless %}
+  {% endfor %}
+
+
+</div>
