@@ -16,4 +16,4 @@ gem install jekyll bundler:1.16.3
 
 bundle install
 
-jekyll build
+bundle exec jekyll build
