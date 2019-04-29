@@ -2,7 +2,7 @@
 layout: post
 title: "Os 3 pilares da sua Vida Financeira"
 date: 2018-07-04
-thumbnail: "/images/blog/tranquilidade2.jpg"
+thumbnail: "/blog/assets/images/tranquilidade2.jpg"
 tags: finanças-pessoais
 ---
 

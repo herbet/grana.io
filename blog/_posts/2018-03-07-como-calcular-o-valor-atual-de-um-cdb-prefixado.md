@@ -2,7 +2,7 @@
 layout: post
 title: "Como calcular o valor atual de um CDB Prefixado"
 date: 2018-03-07
-thumbnail: "/images/blog/cdb-prefixado-bg.png"
+thumbnail: "/blog/assets/images/cdb-prefixado-bg.png"
 tags: renda-fixa google-sheets novidades
 ---
 

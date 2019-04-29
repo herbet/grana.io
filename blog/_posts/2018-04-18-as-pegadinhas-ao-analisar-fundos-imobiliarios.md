@@ -2,7 +2,7 @@
 layout: post
 title: "As pegadinhas ao analisar Fundos Imobiliários"
 date: 2018-04-18
-thumbnail: "/images/blog/fii.jpg"
+thumbnail: "/blog/assets/images/fii.jpg"
 tags: fundos-imobiliários
 ---
 

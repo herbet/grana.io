@@ -2,7 +2,7 @@
 layout: post
 title: "Os principais tipos de Fundos Imobiliários e suas características"
 date: 2018-06-20
-thumbnail: "/images/blog/hong-kong.jpg"
+thumbnail: "/blog/assets/images/hong-kong.jpg"
 tags: fundos-imobiliários
 ---
 

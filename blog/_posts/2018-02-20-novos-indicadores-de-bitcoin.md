@@ -2,7 +2,7 @@
 layout: post
 title: "Novos indicadores de Bitcoin"
 date: 2018-02-20
-thumbnail: "/images/blog/bitcoin-bg.png"
+thumbnail: "/blog/assets/images/bitcoin-bg.png"
 tags: indicadores google-sheets novidades
 ---
 

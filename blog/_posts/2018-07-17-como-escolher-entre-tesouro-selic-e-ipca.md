@@ -2,7 +2,7 @@
 layout: post
 title: "Como escolher entre Tesouro Selic e Tesouro IPCA+?"
 date: 2018-07-17
-thumbnail: "/images/blog/idea.jpg"
+thumbnail: "/blog/assets/images/idea.jpg"
 tags: tesouro-direto finanças-pessoais
 ---
 
