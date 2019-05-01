@@ -9,5 +9,8 @@
   "routes": [
     { "src": "/ipca", "dest": "/index.js" },
     { "src": "/(.*)", "dest": "/blog/_site/$1" }
-  ]
+  ],
+  "github": {
+    "silent": true
+  }
 }
