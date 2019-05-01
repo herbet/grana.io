@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="https://grana.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://grana.io/blog/" rel="alternate" type="text/html" /><updated>2019-05-01T12:14:08-03:00</updated><id>https://grana.io/blog/</id><title type="html">Grana.io</title><subtitle>Simplifique suas finanças
+</subtitle><entry><title type="html">Como escolher entre Tesouro Selic e Tesouro IPCA+?</title><link href="https://grana.io/blog/como-escolher-entre-tesouro-selic-e-ipca" rel="alternate" type="text/html" title="Como escolher entre Tesouro Selic e Tesouro IPCA+?" /><published>2018-07-17T00:00:00-03:00</published><updated>2018-07-17T00:00:00-03:00</updated><id>https://grana.io/blog/como-escolher-entre-tesouro-selic-e-ipca</id><content type="html" xml:base="https://grana.io/blog/como-escolher-entre-tesouro-selic-e-ipca">&lt;p&gt;Essa é uma pergunta comum quando se começa a estudar sobre o Tesouro Direto.&lt;/p&gt;
+
+&lt;p&gt;Qual título devo escolher? Qual rende mais?&lt;/p&gt;
+
+&lt;p&gt;Mas não podemos olhar apenas para a rentabilidade, precisamos avaliar o &lt;a href=&quot;https://andrebona.com.br/tripe-dos-investimentos-liquidez-seguranca-e-rentabilidade/&quot; target=&quot;_blank&quot;&gt;tripé&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Segurança&lt;/li&gt;
+  &lt;li&gt;Liquidez&lt;/li&gt;
+  &lt;li&gt;Rentabilidade&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vamos começar pelas semelhanças:&lt;/p&gt;
+
+&lt;h2 id=&quot;segurança&quot;&gt;Segurança&lt;/h2&gt;
+
+&lt;p&gt;Todos os títulos do Tesouro Direto são garantidos pelo Tesouro Nacional.&lt;/p&gt;
+
+&lt;p&gt;O título público tem o risco soberano, o que significa que o país precisa quebrar (ou estar perto de) para você ter problemas em receber o que foi combinado.&lt;/p&gt;
+
+&lt;p&gt;A taxa dos títulos públicos também é chamada de &lt;em&gt;Risk-Free Rate&lt;/em&gt;. Em teoria, todos os outros investimentos deveriam pagar mais do que isso, já que o risco seria maior.&lt;/p&gt;
+
+&lt;p&gt;Nesse aspecto os dois títulos têm a mesma segurança.&lt;/p&gt;
+
+&lt;h2 id=&quot;liquidez&quot;&gt;Liquidez&lt;/h2&gt;
+
+&lt;p&gt;Você pode vender os títulos do Tesouro Direto nos dias úteis e receber em D+1, salvo raras exceções, como dias de volatilidade muito alta ou dias de reunião do COPOM quando apenas o &lt;strong&gt;Tesouro Selic&lt;/strong&gt; pode ser vendido.&lt;/p&gt;
+
+&lt;p&gt;No papel, os dois títulos têm praticamente a mesma liquidez.&lt;/p&gt;
+
+&lt;p&gt;Entretanto, você pode obter prejuízos com a venda antecipada do &lt;strong&gt;Tesouro IPCA+&lt;/strong&gt;, que vamos explicar na próxima seção.&lt;/p&gt;
+
+&lt;h2 id=&quot;rentabilidade&quot;&gt;Rentabilidade&lt;/h2&gt;
+
+&lt;p&gt;Antes de comparar a rentabilidade de cada título, precisamos entender como eles funcionam. Quais índices eles seguem e como eles se comportam em termos de volatilidade.&lt;/p&gt;
+
+&lt;p&gt;Em termos de tributação, os títulos do Tesouro Direto seguem a &lt;a href=&quot;https://www.easynvest.com.br/tributacaorendafixa&quot; target=&quot;_blank&quot;&gt;renda fixa&lt;/a&gt;. Há também a cobrança de uma &lt;a href=&quot;http://www.tesouro.fazenda.gov.br/-/cobranca-de-taxas-no-tesouro-direto&quot; target=&quot;_blank&quot;&gt;taxa de custódia&lt;/a&gt; de 0,03% a.a. sobre o valor dos títulos.&lt;/p&gt;
+
+&lt;p&gt;Feitas as primeiras considerações, vamos analisar cada título.&lt;/p&gt;
+
+&lt;h3 id=&quot;tesouro-selic&quot;&gt;Tesouro Selic&lt;/h3&gt;
+
+&lt;p&gt;O Tesouro Selic é um título pós-fixado.&lt;/p&gt;
+
+&lt;p&gt;Não há surpresas, ele renderá a taxa Selic do início ao fim.&lt;/p&gt;
+
+&lt;p&gt;Quando a Selic aumenta, ele rende um pouco mais (curva mais inclinada) e quando a Selic diminui, ele rende um pouco menos (curva fica mais suave).&lt;/p&gt;
+
+&lt;p&gt;Você pode vender antecipadamente e não há problemas.&lt;/p&gt;
+
+&lt;div id=&quot;blog-tesouro-selic-venda&quot; style=&quot;width: 100%;height:400px;&quot;&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;tesouro-ipca&quot;&gt;Tesouro IPCA+&lt;/h3&gt;
+
+&lt;p&gt;O Tesouro IPCA+ tem um componente pós-fixado (IPCA) e um pré-fixado (+X %).&lt;/p&gt;
+
+&lt;p&gt;Uma rentabilidade de &lt;strong&gt;IPCA + 5%&lt;/strong&gt; significa que o título renderá a variação do IPCA no período, acrescido de 5% ao ano. Porém, isso só vale se você levar o título até o vencimento.&lt;/p&gt;
+
+&lt;p&gt;O que acontece se você vender o título antes de hora?&lt;/p&gt;
+
+&lt;p&gt;Bom, o preço e a taxa de um título se movem em direções opostas – quando a taxa aumenta o preço diminui e vice-versa, como você pode ver no gráfico abaixo:&lt;/p&gt;
+
+&lt;div id=&quot;blog-tesouro-ipca-venda&quot; style=&quot;width: 100%;height:400px;&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Então se você comprar o &lt;strong&gt;Tesouro IPCA+&lt;/strong&gt; com uma taxa de 5% e quando for vender antecipadamente a taxa estiver maior, você poderá ter prejuízo. No fim, isso depende de quanto foi a variação da taxa e do tempo que você carregou o título.&lt;/p&gt;
+
+&lt;p&gt;Ainda não comparamos o rendimento em si, todavia já é possível ver que investir no &lt;strong&gt;Tesouro IPCA+&lt;/strong&gt; requer um planejamento.&lt;/p&gt;
+
+&lt;p&gt;Não é seguro investir para o curto prazo.&lt;/p&gt;
+
+&lt;h3 id=&quot;comparando-a-rentabilidade&quot;&gt;Comparando a Rentabilidade&lt;/h3&gt;
+
+&lt;p&gt;Enfim, qual ganha em termos de rentabilidade?&lt;/p&gt;
+
+&lt;p&gt;Um jeito de analisar isso é através da tabela que montei.&lt;/p&gt;
+
+&lt;p&gt;A tabela mostra o IPCA acumulado naquele ano, a taxa Selic no final do ano e também uma coluna IPCA + X.&lt;/p&gt;
+
+&lt;p&gt;Essa última coluna mostra quanto teria que ser a taxa do &lt;strong&gt;Tesouro IPCA+&lt;/strong&gt; para empatar com o &lt;strong&gt;Tesouro Selic&lt;/strong&gt; naquele ano. Uma taxa maior faria o &lt;strong&gt;Tesouro IPCA+&lt;/strong&gt; ganhar em rentabilidade.&lt;/p&gt;
+
+&lt;p&gt;Não sabemos como serão os próximos anos, mas segue o histórico:&lt;/p&gt;
+
+&lt;div class=&quot;w-90 center pa1 bg-near-white&quot;&gt;
+  &lt;table class=&quot;w-100 center table-blog table-hover-tr&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th class=&quot;b tl w-10&quot;&gt;Ano&lt;/th&gt;
+        &lt;th class=&quot;b tr w-30&quot;&gt;IPCA&lt;/th&gt;
+        &lt;th class=&quot;b tr w-30&quot;&gt;Selic&lt;/th&gt;
+        &lt;th class=&quot;b tr w-30&quot;&gt;IPCA + X&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2017&lt;/td&gt;
+      &lt;td class=&quot;tr&quot;&gt;2,94%&lt;/td&gt;
+      &lt;td class=&quot;tr&quot;&gt;7,00%&lt;/td&gt;
+      &lt;td class=&quot;tr&quot;&gt;5,94%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2016&lt;/td&gt;
+      &lt;td class=&quot;tr&quot;&gt;6,28%&lt;/td&gt;
+      &lt;td class=&quot;tr&quot;&gt;13,75%&lt;/td&gt;
+      &lt;td class=&quot;tr&quot;&gt;7,47%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2015&lt;/td&gt;
+      &lt;td class=&quot;tr&quot;&gt;10,67%&lt;/td&gt;
+      &lt;td class=&quot;tr&quot;&gt;14,25%&lt;/td&gt;
+      &lt;td class=&quot;tr&quot;&gt;3,58%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2014&lt;/td&gt;
+      &lt;td class=&quot;tr&quot;&gt;6,40%&lt;/td&gt;
+      &lt;td class=&quot;tr&quot;&gt;11,75%&lt;/td&gt;
+      &lt;td class=&quot;tr&quot;&gt;5,35%&lt;/td&gt;
+    &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2013&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;5,91%&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;10,00%&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;4,09%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2012&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;5,83%&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;7,25%&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;1,42%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2011&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;6,50%&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;11,00%&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;4,50%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2010&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;5,90%&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;10,75%&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;4,85%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2009&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;4,31%&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;8,75%&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;4,44%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2008&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;5,90%&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;13,75%&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;7,85%&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Hoje, a taxa do &lt;strong&gt;Tesouro IPCA+ 2024&lt;/strong&gt; está em &lt;strong&gt;5,50%&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Analisando o histórico, vemos que essa taxa bate o &lt;strong&gt;Tesouro Selic&lt;/strong&gt; em 7 dos 10 anos da tabela.&lt;/p&gt;
+
+&lt;p&gt;Em épocas de crise, o Tesouro Nacional oferece taxas ainda melhores, que você pode aproveitar. Não precisa ficar esperando esses dias para investir, mas convém ficar de olho e aportar quando as taxas estiverem excepcionais.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;Na prática, não tem muito o que escolher.&lt;/p&gt;
+
+&lt;p&gt;No curto prazo, apenas o &lt;strong&gt;Tesouro Selic&lt;/strong&gt; faz sentido.&lt;/p&gt;
+
+&lt;p&gt;Já no longo prazo, você pode aproveitar o &lt;strong&gt;Tesouro IPCA+&lt;/strong&gt; que costuma ter uma rentabilidade superior, mas você também pode diversificar com o &lt;strong&gt;Tesouro Selic&lt;/strong&gt; caso precise do dinheiro antecipadamente.&lt;/p&gt;</content><author><name></name></author><category term="tesouro-direto" /><category term="finanças-pessoais" /><summary type="html">Essa é uma pergunta comum quando se começa a estudar sobre o Tesouro Direto.</summary></entry><entry><title type="html">Os 3 pilares da sua Vida Financeira</title><link href="https://grana.io/blog/os-3-pilares-da-sua-vida-financeira" rel="alternate" type="text/html" title="Os 3 pilares da sua Vida Financeira" /><published>2018-07-04T00:00:00-03:00</published><updated>2018-07-04T00:00:00-03:00</updated><id>https://grana.io/blog/os-3-pilares-da-sua-vida-financeira</id><content type="html" xml:base="https://grana.io/blog/os-3-pilares-da-sua-vida-financeira">&lt;p&gt;Você já se pegou caçando os melhores CDBs pelas corretoras? Já criou uma planilha de gastos em que cada real tinha um destino? Já planejou como o seu salário poderia evoluir ano a ano?&lt;/p&gt;
+
+&lt;p&gt;Eu percebi que de tempos em tempos meu foco muda. Às vezes fico super rígido com os gastos, depois relaxo nos gastos e viro um estudioso dos investimentos, depois deixo tudo de lado e volto a focar no meu desenvolvimento profissional.&lt;/p&gt;
+
+&lt;p&gt;Percebi também que quando você volta para um desses assuntos, você sempre acha algo interessante. Depois de semanas estudando investimentos, uma hora aplicada no controle de gastos pode ter um retorno muito maior.&lt;/p&gt;
+
+&lt;p&gt;Sendo assim, decidi identificar quais as grandes áreas da nossa vida financeira, para saber onde posso dedicar minha atenção e também para buscar um equilíbrio.&lt;/p&gt;
+
+&lt;h2 id=&quot;receitas-gastos-e-investimentos&quot;&gt;Receitas, Gastos e Investimentos&lt;/h2&gt;
+
+&lt;p&gt;Esses são os 3 pilares que determinam a sua vida financeira.&lt;/p&gt;
+
+&lt;div class=&quot;pa1 bg-near-white&quot;&gt;
+  &lt;table class=&quot;w-100 center table-blog table-hover-td&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th class=&quot;w-25&quot;&gt;&lt;/th&gt;
+        &lt;th class=&quot;w-75&quot;&gt;Definição&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;b bg-near-white&quot;&gt;Receitas&lt;/td&gt;
+        &lt;td class=&quot;v-top&quot;&gt;
+          &lt;p&gt;É o que entra de dinheiro, seja salário, aposentadoria, dividendos, aluguéis, etc..&lt;/p&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;b bg-near-white&quot;&gt;Gastos&lt;/td&gt;
+        &lt;td class=&quot;v-top&quot;&gt;
+          &lt;p&gt;É o que sai de dinheiro, seja os seus gastos mensais ou periódicos como trocar de carro e viajar.&lt;/p&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;b bg-near-white&quot;&gt;Investimentos&lt;/td&gt;
+        &lt;td class=&quot;v-top&quot;&gt;
+          &lt;p&gt;É como você aumenta o seu patrimônio, seja usando poupança, tesouro direto, ações, imóveis, fundos imobiliários, debêntures, etc..&lt;/p&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Você separa todo mês o que sobra de &lt;strong&gt;Receitas - Gastos&lt;/strong&gt; e aplica em &lt;strong&gt;Investimentos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;É assim que você vai formando patrimônio.&lt;/p&gt;
+
+&lt;p&gt;Se você quiser acelerar o processo, você tem basicamente 3 alternativas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aumentar as suas &lt;strong&gt;Receitas&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Diminuir os seus &lt;strong&gt;Gastos&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Melhorar os seus &lt;strong&gt;Investimentos&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Em quais dessas iniciativas acima você vai obter o melhor resultado?&lt;/p&gt;
+
+&lt;p&gt;Depende.&lt;/p&gt;
+
+&lt;p&gt;Vamos seguir com alguns exemplos para ilustrar.&lt;/p&gt;
+
+&lt;h2 id=&quot;vale-a-pena-ficar-caçando-os-melhores-cdbs-por-aí&quot;&gt;Vale a pena ficar caçando os melhores CDBs por aí?&lt;/h2&gt;
+
+&lt;p&gt;A CDI hoje paga 6,38% ao ano.&lt;/p&gt;
+
+&lt;p&gt;Vamos supor que com 1 hora por mês você consegue achar uma boa taxa de 120% CDI no mercado para realocar seus CDBs que venceram. Na sua corretora normal eles renderiam 115% CDI.&lt;/p&gt;
+
+&lt;p&gt;Se você possui R$10mil, segue a diferença:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;R$10.000 * (6,38% * 115% + 100%) = R$10.733,70
+R$10.000 * (6,38% * 120% + 100%) = R$10.765,60
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;A diferença é pequena: R$31,90.&lt;/p&gt;
+
+&lt;p&gt;Talvez controlando seus gastos, você teria percebido algum gasto que daria pra cortar? Ou fazer uma hora extra no trabalho já teria dado um retorno maior?&lt;/p&gt;
+
+&lt;p&gt;Se você possui R$100mil, a diferença já pula para R$319,00.&lt;/p&gt;
+
+&lt;p&gt;Talvez já valha a pena.&lt;/p&gt;
+
+&lt;p&gt;Quanto maior o seu patrimônio, maior o impacto de buscar investimentos melhores.&lt;/p&gt;
+
+&lt;h2 id=&quot;vale-a-pena-controlar-cada-gasto-até-o-último-centavo&quot;&gt;Vale a pena controlar cada gasto até o último centavo?&lt;/h2&gt;
+
+&lt;p&gt;Depende do tempo que isso leva.&lt;/p&gt;
+
+&lt;p&gt;Sem acompanhar os gastos, digamos que você gaste R$5000/mês.&lt;/p&gt;
+
+&lt;p&gt;Fazendo um controle básico de 1 hora por mês, você consegue enxugar os gastos para R$4750/mês.&lt;/p&gt;
+
+&lt;p&gt;Você se empolga e baixa todas os aplicativos e planilhas do &lt;a href=&quot;http://mepoupenaweb.uol.com.br/dicas-de-riqueza/outfit-vale-quanto-pesa/&quot; target=&quot;_blank&quot;&gt;Me Poupe&lt;/a&gt;, &lt;a href=&quot;http://oprimorico.com.br/&quot; target=&quot;_blank&quot;&gt;Primo Rico&lt;/a&gt; e &lt;a href=&quot;https://andrebona.com.br/&quot; target=&quot;_blank&quot;&gt;Blog de Valor&lt;/a&gt;, e com 12 horas mensais você chega em R$4500/mês.&lt;/p&gt;
+
+&lt;p&gt;Vale a pena?&lt;/p&gt;
+
+&lt;p&gt;Tudo é relativo, vai ter vezes que vamos precisar enxugar muito os gastos.&lt;/p&gt;
+
+&lt;p&gt;Mas o interessante aqui é o conceito de utilidade marginal – para cada hora gasta a mais, o seu retorno ou impacto diminui.&lt;/p&gt;
+
+&lt;p&gt;Portanto, é importante diversificar sua atenção.&lt;/p&gt;
+
+&lt;h2 id=&quot;como-investir-em-cada-pilar&quot;&gt;Como investir em cada pilar?&lt;/h2&gt;
+
+&lt;p&gt;Se já faz um tempo que você não pensa em aumentar suas Receitas, diminuir seus Gastos ou melhorar seus Investimentos, eu deixei abaixo algumas idéias, mas sem a pretensão de ser um roteiro ou guia de estudo completo, ok?&lt;/p&gt;
+
+&lt;h2 id=&quot;receitas&quot;&gt;Receitas&lt;/h2&gt;
+
+&lt;p&gt;Aqui existem basicamente 2 caminhos.&lt;/p&gt;
+
+&lt;p&gt;Você pode voltar sua atenção no que precisa para ser promovido ou pode tentar desenvolver outras fontes de renda.&lt;/p&gt;
+
+&lt;p&gt;O primeiro caminho envolve ir a eventos para fazer networking ou até palestrar. Você também pode investir na sua formação fazendo cursos. Além disso, você pode tentar entregar mais resultados no trabalho.&lt;/p&gt;
+
+&lt;p&gt;Eu acho até estranho escrever sobre isso, mas no fim é verdade – aumentar sua receita é uma maneira de melhorar sua vida financeira.&lt;/p&gt;
+
+&lt;p&gt;Para desenvolver outras fontes de receita, você pode dar aulas ou organizar cursos sobre a sua profissão, pode tentar criar um blog sobre um assunto de interesse ou até fazer um bico / freelance por aí.&lt;/p&gt;
+
+&lt;h2 id=&quot;gastos&quot;&gt;Gastos&lt;/h2&gt;
+
+&lt;p&gt;O básico daqui é acompanhar os gastos.&lt;/p&gt;
+
+&lt;p&gt;Eu utilizo uma planilha para categorizar meus gastos e tentar reduzir onde acho estar gastando demais.&lt;/p&gt;
+
+&lt;p&gt;Não é sobre “cortar o cafézinho”, mas sim identificar onde você acha que vale a pena gastar.&lt;/p&gt;
+
+&lt;p&gt;Se você tem dívidas, bolar um plano de pagamento vai te trazer o melhor retorno possível, uma vez que os juros de dívidas são muito mais altos que as taxas que conseguimos para investir nosso dinheiro.&lt;/p&gt;
+
+&lt;p&gt;Feito esse básico, é importante incorporar e se planejar para os gastos anuais ou não recorrentes: IPVA, seguros, matrículas, academia, presentes, etc..&lt;/p&gt;
+
+&lt;p&gt;Finalmente, o próximo passo é definir e planejar os gastos grandes que você quer ter, como comprar um apartamento, fazer uma grande festa de casamento, viajar para o Japão, comprar um carro / moto / barco / helicóptero / patinete, etc..&lt;/p&gt;
+
+&lt;h2 id=&quot;investimentos&quot;&gt;Investimentos&lt;/h2&gt;
+
+&lt;p&gt;Ah os investimentos, de longe o meu assunto preferido.&lt;/p&gt;
+
+&lt;p&gt;A poupança é o investimento mais comum. Lembro de quando eu tinha 8 anos e ganhei uma caderneta de poupança com 100 reais da minha avó. Fiquei maravilhado de saber que ali o dinheiro se multiplicaria sozinho.&lt;/p&gt;
+
+&lt;p&gt;Se você consegue poupar, você já pode se dar os parabéns, visto que não é um &lt;a href=&quot;https://exame.abril.com.br/negocios/dino/numero-de-brasileiros-que-poupam-dinheiro-diminui-no-ultimo-mes/&quot; target=&quot;_blank&quot;&gt;hábito brasileiro.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;reserva-de-emergência&quot;&gt;Reserva de Emergência&lt;/h3&gt;
+
+&lt;p&gt;O primeiro passo nos investimentos é formar uma reserva de emergência.&lt;/p&gt;
+
+&lt;p&gt;Costuma-se pensar em algo como 6 meses a 1 ano de suas despesas. A poupança até serve, no entanto há CDBs com liquidez diária e fundos DI com baixa taxa de administração nas corretoras que rendem mais.&lt;/p&gt;
+
+&lt;p&gt;Feita essa reserva, o próximo passo é estudar sobre o Tesouro Direto.&lt;/p&gt;
+
+&lt;h3 id=&quot;tesouro-direto&quot;&gt;Tesouro Direto&lt;/h3&gt;
+
+&lt;p&gt;Aprender as características e como se comportam os diferentes títulos – Selic, IPCA e Prefixado é essencial. Para isso, você vai ter que aprender um pouco sobre economia e seus indicadores, o que também faz parte da vida do investidor.&lt;/p&gt;
+
+&lt;p&gt;Entender bem o Tesouro Direto te coloca num patamar excelente de renda fixa.&lt;/p&gt;
+
+&lt;p&gt;O próximo passo é começar a estudar renda variável.&lt;/p&gt;
+
+&lt;h3 id=&quot;fundos-imobiliários&quot;&gt;Fundos Imobiliários&lt;/h3&gt;
+
+&lt;p&gt;Os &lt;a href=&quot;https://amzn.to/2lSo8WI&quot; target=&quot;_blank&quot;&gt;fundos imobiliários&lt;/a&gt; podem ser um bom ponto de entrada. É muito mais fácil analisar um fundo imobiliário do que uma empresa. O comportamento é um tanto mais previsível, contudo apresenta a volatilidade de renda variável.&lt;/p&gt;
+
+&lt;p&gt;Outra vantagem é poder investir em imóveis (e receber aluguéis) sem possuir um capital grande. Além disso, você consegue uma liquidez infinitamente maior do que a de um imóvel físico.&lt;/p&gt;
+
+&lt;p&gt;Há quem diga que nem todos tem o perfil de investir em renda variável. A minha experiência é de ficar mais confortável à medida que fui estudando mais sobre o assunto. Aumentando minha alocação aos poucos.&lt;/p&gt;
+
+&lt;p&gt;Num avião passando por turbulência, os passageiros mais habituados não ligam tanto quanto os passageiros de primeira viagem. Uma analogia interessante do &lt;a href=&quot;https://www.youtube.com/watch?v=XxrUK2896sM&quot; target=&quot;_blank&quot;&gt;Prof. Baroni&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;ações&quot;&gt;Ações&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://amzn.to/2zaUfdF&quot; target=&quot;_blank&quot;&gt;As ações ganham no longo prazo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Acho importante entender o porquê antes de começar a investir.&lt;/p&gt;
+
+&lt;p&gt;O foco em empresas boas em termos de fundamentos é algo que tem dado certo pra mim. Todavia não me sinto confortável e dar muitas dicas ainda.&lt;/p&gt;
+
+&lt;p&gt;Gosto muito do método do &lt;a href=&quot;https://bastter.com&quot; target=&quot;_blank&quot;&gt;Bastter.com&lt;/a&gt;, mas acredito que eventualmente você começa a andar com as próprias pernas e percebe alguns dogmas do site.&lt;/p&gt;
+
+&lt;p&gt;Assim como nos fundos imobiliários, a minha alocação foi aumentando com o tempo à medida que fui ficando mais seguro.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;A sua vida financeira é composta por 3 pilares.&lt;/p&gt;
+
+&lt;p&gt;Você vai obter os melhores resultados se diversificar a sua atenção à cada um deles.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Receitas&lt;/strong&gt; – é se desenvolver profissionalmente e criar fontes alternativas de renda.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gastos&lt;/strong&gt; – é identificar o que te faz feliz, quais gastos valem a pena. Acompanhar mensalmente. Planejar os gastos que não acontecem todo mês. Acumular uma reserva para realizar os seus sonhos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Investimentos&lt;/strong&gt; – é crescer o patrimônio. Investir dentro das suas competências, mas buscar expandi-las.&lt;/p&gt;</content><author><name></name></author><category term="finanças-pessoais" /><summary type="html">Você já se pegou caçando os melhores CDBs pelas corretoras? Já criou uma planilha de gastos em que cada real tinha um destino? Já planejou como o seu salário poderia evoluir ano a ano?</summary></entry><entry><title type="html">Os principais tipos de Fundos Imobiliários e suas características</title><link href="https://grana.io/blog/os-principais-tipos-de-fundos-imobiliarios" rel="alternate" type="text/html" title="Os principais tipos de Fundos Imobiliários e suas características" /><published>2018-06-20T00:00:00-03:00</published><updated>2018-06-20T00:00:00-03:00</updated><id>https://grana.io/blog/os-principais-tipos-de-fundos-imobiliarios</id><content type="html" xml:base="https://grana.io/blog/os-principais-tipos-de-fundos-imobiliarios">&lt;p&gt;Hoje vamos explorar a diversidade dos fundos imobiliários e também as suas principais características.&lt;/p&gt;
+
+&lt;p&gt;O jeito mais pragmático que encontrei de começar é estudando o IFIX (Índice de Fundos de Investimentos Imobiliários), que se propõe a ser um indicador do desempenho dos fundos mais negociados no mercado, análogo ao Ibovespa para ações.&lt;/p&gt;
+
+&lt;p&gt;Outro benefício de começar pelo IFIX é que ele já faz um primeiro filtro, excluindo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;fundos com pouquíssima liquidez&lt;/li&gt;
+  &lt;li&gt;fundos muito pequenos&lt;/li&gt;
+  &lt;li&gt;fundos não listados na B3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A primeira dimensão que vamos explorar é a de segmentos dos fundos:&lt;/p&gt;
+
+&lt;div class=&quot;pa1 bg-near-white&quot;&gt;
+  &lt;table class=&quot;w-100 center table-blog table-hover-tr&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th class=&quot;b tl w-40&quot;&gt;Segmento&lt;/th&gt;
+        &lt;th class=&quot;b tr w-30&quot;&gt;Fundos&lt;/th&gt;
+        &lt;th class=&quot;b tr w-30&quot;&gt;% do IFIX&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Lajes Comerciais&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;29&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;37,54%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Recebíveis Imobiliários&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;13&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;17,08%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Shopping/Varejo&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;11&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;16,91%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Agências Bancárias&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;6&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;12,73%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Logísticos&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;8&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;7,70%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Fundo de Fundos&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;5&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;3,09%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Educacional&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;3&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;1,91%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Incorporação&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;3&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;1,58%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Hospital&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;2&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;1,17%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Hoteis&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;1&lt;/td&gt;
+        &lt;td class=&quot;tr&quot;&gt;0,30%&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;mt1&quot;&gt;
+  &lt;small class=&quot;w-80&quot;&gt;Fontes: &lt;a href=&quot;http://www.bmfbovespa.com.br/pt_br/produtos/indices/outros-indices/indice-bm-fbovespa-fundos-de-investimentos-imobiliarios-ifix-composicao-da-carteira.htm&quot; target=&quot;_blank&quot;&gt;Composição do IFIX (Maio a Agosto / 2018) via B3&lt;/a&gt; e &lt;a href=&quot;https://www.clubefii.com.br/radar_profile_visualizacao.aspx?cod_pro=7734&quot; target=&quot;_blank&quot;&gt;ClubeFii&lt;/a&gt;&lt;/small&gt;
+&lt;/p&gt;
+
+&lt;p&gt;É importante saber quanto cada segmento representa do índice, já que concorrência e diversidade levam a melhores opções para o investidor.&lt;/p&gt;
+
+&lt;p&gt;Começamos o nosso estudo pelo segmento que é mais diferente dos outros, aquele que não possui imóveis de fato – os Recebíveis Imobiliários.&lt;/p&gt;
+
+&lt;h2 id=&quot;os-fundos-de-papel&quot;&gt;Os fundos de “papel”&lt;/h2&gt;
+
+&lt;p&gt;Os fundos de papel investem em ativos de renda fixa ligados ao setor imobiliário, por exemplo: CRI (Certificados de Recebíveis Imobiliários) e LCI (Letras de Crédito Imobiliário).&lt;/p&gt;
+
+&lt;p&gt;Ao invés de imóveis, temos instrumentos de renda fixa, que pagam juros conforme um cronograma. Geralmente de forma mensal, mas não necessariamente. Como sempre, a taxa de cada investimento é proporcional ao risco.&lt;/p&gt;
+
+&lt;p&gt;Fica claro que avaliar o time de gestão é importante, porque eles decidem quais investimentos fazer, considerando o risco, retorno, as garantias da operação e outros fatores.&lt;/p&gt;
+
+&lt;p&gt;Por mais que seja possível investir em CRI e LCI diretamente, através de fundos de papel é possível diversificar o risco e obter taxas melhores devido ao patrimônio dos fundos que é gigante. Outra vantagem é a liquidez das cotas dos fundos imobiliários, que podem ser vendidas com facilidade.&lt;/p&gt;
+
+&lt;p&gt;Para iniciantes, os fundos de papel são arriscados. Eles se parecem muito com renda fixa e aí que mora o perigo: eles não são. Os rendimentos são muitas vezes mais altos e voláteis que os fundos de tijolo, essa volatilidade nos rendimentos às vezes causa irracionalidade nos preços das cotas.&lt;/p&gt;
+
+&lt;h2 id=&quot;os-fundos-de-tijolo&quot;&gt;Os fundos de “tijolo”&lt;/h2&gt;
+
+&lt;p&gt;Antes de comentar sobre cada um dos segmentos dos fundos de tijolo, vamos discutir algumas das características principais que são comuns a todos.&lt;/p&gt;
+
+&lt;p&gt;Vamos primeiro explorar as relações entre imóveis e inquilinos.&lt;/p&gt;
+
+&lt;p&gt;Um fundo imobiliário pode ter apenas 1 imóvel (Mono Ativo) ou vários (Multi Ativo). Esses imóveis podem ser alugados para 1 inquilino (Mono) ou vários (Multi). Abaixo vamos encaixar cada segmento em seu quadrante:&lt;/p&gt;
+
+&lt;div class=&quot;pa1 bg-near-white&quot;&gt;
+  &lt;table class=&quot;w-100 center table-blog table-hover-td&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th class=&quot;w-10&quot;&gt;&lt;/th&gt;
+        &lt;th class=&quot;w-45 br&quot;&gt;Mono Inquilino&lt;/th&gt;
+        &lt;th class=&quot;w-45&quot;&gt;Multi Inquilino&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;b bg-near-white&quot;&gt;Mono&lt;br /&gt;Ativo&lt;/td&gt;
+        &lt;td class=&quot;br v-top&quot;&gt;
+          &lt;p&gt;Hospital e Educacional.&lt;/p&gt;
+          &lt;p&gt;Há uma relação de simbiose entre imóvel e inquilino.&lt;/p&gt;
+          &lt;p&gt;Os contratos são longos e geralmente atípicos (explico adiante).&lt;/p&gt;
+        &lt;/td&gt;
+        &lt;td class=&quot;v-top&quot;&gt;
+          &lt;p&gt;Lajes Comerciais, Shopping e Logísticos.&lt;/p&gt;
+          &lt;p&gt;O imóvel &quot;é&quot; o fundo. Portanto, saber avaliar a localização e a qualidade do imóvel é super importante.&lt;/p&gt;
+          &lt;p&gt;A vacância é algo a se observar, porque que não há garantias de locação do imóvel.&lt;/p&gt;
+          &lt;p&gt;Geralmente a gestão é passiva (mais sobre isso adiante).&lt;/p&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;b bg-near-white&quot;&gt;Multi&lt;br /&gt;Ativo&lt;/td&gt;
+        &lt;td class=&quot;br v-top&quot;&gt;
+          &lt;p&gt;Agências Bancárias.&lt;/p&gt;
+          &lt;p&gt;A perspectiva do fundo depende muito da vontade do inquilino.&lt;/p&gt;
+          &lt;p&gt;Os contratos são longos e geralmente atípicos.&lt;/p&gt;&lt;/td&gt;
+        &lt;td class=&quot;v-top&quot;&gt;
+          &lt;p&gt;Lajes Comerciais, Shopping e Logísticos.&lt;/p&gt;
+          &lt;p&gt;É preciso avaliar o portfólio de imóveis do fundo quanto a diversidade de localização, qualidade dos imóveis e a vacância.&lt;/p&gt;
+          &lt;p&gt;Geralmente a gestão é ativa, que precisa ser avaliada também.&lt;/p&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Acho interessante como apenas observando os ativos e inquilinos já seja possível entender parte da dinâmica dos fundos.&lt;/p&gt;
+
+&lt;p&gt;Na tabela tocamos em dois pontos interessantes – gestão e contratos. Vamos entrar em mais detalhes para entender melhor.&lt;/p&gt;
+
+&lt;h2 id=&quot;gestão-ativa-e-passiva&quot;&gt;Gestão Ativa e Passiva&lt;/h2&gt;
+
+&lt;p&gt;Os fundos com &lt;strong&gt;gestão ativa&lt;/strong&gt; podem comprar e vender imóveis (ou fatias de imóveis) livremente. Assim como os aluguéis, o lucro de uma venda é repassado ao cotista.&lt;/p&gt;
+
+&lt;p&gt;Os relatórios gerenciais desses fundos costumam ser mais elaborados uma vez que o portfólio de imóveis muda com o tempo. É importante conferir o histórico, já que nada garante que as trocas do portfólio serão boas.&lt;/p&gt;
+
+&lt;p&gt;A gestão ativa requer uma equipe maior, e por isso as taxas de administração podem ser mais altas.&lt;/p&gt;
+
+&lt;p&gt;Em mercados mais desenvolvidos como &lt;a href=&quot;http://viverdedividendos.org/apresentando-o-mercado-de-reits/&quot;&gt;EUA&lt;/a&gt; e México, a gestão ativa é mais comum, havendo fundos gigantescos com milhares de imóveis. Por aqui, os maiores fundos têm cerca de 15 imóveis.&lt;/p&gt;
+
+&lt;p&gt;Já os fundos com &lt;strong&gt;gestão passiva&lt;/strong&gt; estão mais interessados em explorar os imóveis que já possuem. O gestor até pode comprar/vender imóveis, mas apenas mediante a aprovação em assembléia.&lt;/p&gt;
+
+&lt;p&gt;Em geral, são fundos que apresentam aquele relatório copiar-colar e em troca da estabilidade também costumam cobrar uma taxa de administração menor.&lt;/p&gt;
+
+&lt;p&gt;Devemos lembrar que o estilo de gestão pode ser alterado mediante assembléia, caso seja do interesse dos cotistas.&lt;/p&gt;
+
+&lt;h2 id=&quot;contratos-típicos-e-atípicos&quot;&gt;Contratos Típicos e Atípicos&lt;/h2&gt;
+
+&lt;p&gt;Algumas modalidades de fundos imobiliários utilizam &lt;strong&gt;contratos atípicos&lt;/strong&gt;, que são alternativas ao contrato padrão de aluguel.&lt;/p&gt;
+
+&lt;p&gt;Primeiro vamos ver as principais características de um contrato atípico:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prazo mais longo (há exemplos de 5 anos a 20 anos)&lt;/li&gt;
+  &lt;li&gt;Multas severas para desocupar o imóvel (geralmente é preciso quitar &lt;em&gt;todos&lt;/em&gt; os aluguéis restantes)&lt;/li&gt;
+  &lt;li&gt;Ausência de revisionais (o valor do aluguel segue uma regra de reajuste, sem negociação)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Parece bom demais para o dono do imóvel, não?&lt;/p&gt;
+
+&lt;p&gt;Veja abaixo alguns cenários para entender o lado do inquilino:&lt;/p&gt;
+
+&lt;h3 id=&quot;bts-build-to-suit&quot;&gt;BTS (Build to Suit)&lt;/h3&gt;
+
+&lt;p&gt;Um banco pode estar precisando de uma agência numa região, um fundo de investidores pode acordar em construir esse imóvel sob medida, contanto que um longo contrato compense o trabalho.&lt;/p&gt;
+
+&lt;p&gt;Um fundo dono de um galpão logístico pode topar fazer uma bela reforma para atender bem uma empresa, novamente em troca desse tipo de contrato.&lt;/p&gt;
+
+&lt;h3 id=&quot;btl-buy-to-lease&quot;&gt;BTL (Buy to Lease)&lt;/h3&gt;
+
+&lt;p&gt;Um banco ou uma empresa pode não ter interesse em manter um imóvel como patrimônio, então propõe a venda desse imóvel com a garantia de alugá-lo sob um contrato atípico.&lt;/p&gt;
+
+&lt;p&gt;Como sempre, há riscos envolvidos. O preço do aluguel pode ficar muito alto, a ponto de fazer com que a empresa não possa pagar ou a ponto da empresa se planejar para não renovar o longo contrato. Então o fundo fica com um imóvel que foi feito sob medida para outra empresa.&lt;/p&gt;
+
+&lt;p&gt;Agora vamos passar para os segmentos dos fundos, para as considerações finais:&lt;/p&gt;
+
+&lt;h2 id=&quot;segmentos&quot;&gt;Segmentos&lt;/h2&gt;
+
+&lt;div class=&quot;pa1 bg-near-white&quot;&gt;
+  &lt;table class=&quot;w-100 center table-blog table-hover-td&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th class=&quot;w-10&quot;&gt;&lt;/th&gt;
+        &lt;th class=&quot;w-45&quot;&gt;Características&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;b bg-near-white&quot;&gt;Lajes Comerciais&lt;/td&gt;
+        &lt;td class=&quot;v-top&quot;&gt;
+          &lt;p&gt;São os fundos que mais giram inquilinos. É interessante monitorar a vacância do fundo em relação a região onde ele se encontra, informação comum nos relatórios gerenciais.&lt;/p&gt;
+          &lt;p&gt;Imóveis de maior qualidade costumam passar melhor por crises, devido ao movimento &lt;a href=&quot;http://rexperts.com.br/flight-to-quality/&quot; target=&quot;_blank&quot;&gt;flight-to-quality&lt;/a&gt;.&lt;/p&gt;
+          &lt;p&gt;Além da qualidade do imóvel, procure avaliar a localização e inquilinos, no caso de mono-ativos.&lt;/p&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;b bg-near-white&quot;&gt;Shopping&lt;/td&gt;
+        &lt;td class=&quot;v-top&quot;&gt;
+          &lt;p&gt;Os shoppings maduros (5+ anos de existência) costumam ter vacância baixa, na casa dos 5%.&lt;/p&gt;
+          &lt;p&gt;O mercado percebe essa estabilidade e precifica de acordo, por isso que os aluguéis mensais são menores que o de outros fundos.&lt;/p&gt;
+          &lt;p&gt;Lembrando que as lojas de shopping também pagam um percentual de sua receita como aluguel. Portanto, em época de consumo maior, o aluguel é maior também.&lt;/p&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;b bg-near-white&quot;&gt;Agências &lt;br /&gt;Bancárias&lt;/td&gt;
+        &lt;td class=&quot;v-top&quot;&gt;
+          &lt;p&gt;Os contratos são longos, portanto é importante saber a vigência.&lt;/p&gt;
+          &lt;p&gt;Há fundos que foram criados com um portfólio fixo de agências e há fundos que procuram comprar novos imóveis para transformar em agências.&lt;/p&gt;
+          &lt;p&gt;Existe a perspectiva de diminuição do número de agências em função do atendimento via internet. No entanto, os contratos atípicos e o profissionalismo dos gestores costuma favorecer as agências dos fundos.&lt;/p&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;b bg-near-white&quot;&gt;Logísticos&lt;/td&gt;
+        &lt;td class=&quot;v-top&quot;&gt;
+          &lt;p&gt;Os contratos são longos, porém as eventuais vacâncias costumam demorar para serem absorvidas.&lt;/p&gt;
+          &lt;p&gt;Assim como todos os outros imóveis, é necessário saber a qualidade do imóvel e a localização.&lt;/p&gt;
+          &lt;p&gt;Para os fundos mono-ativos, não deixe de conferir os inquilinos. Há casos de &quot;multi-inquilinos&quot; onde um único inquilino utiliza 70% do imóvel.&lt;/p&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td class=&quot;b bg-near-white&quot;&gt;Hospital e Educacional&lt;/td&gt;
+        &lt;td class=&quot;v-top&quot;&gt;
+          &lt;p&gt;Se faz necessário a avaliação do relacionamento entre locador e locatário. Há muitos processos acontecendo entre os dois?&lt;/p&gt;
+          &lt;p&gt;Costumam ser fundos estáveis, mas uma desocupação pode ser traumática para ambos os lados. Portanto, saiba também a vigência do contrato.&lt;/p&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;Há uma grande diversidade de fundos imobiliários. Além do segmento do fundo, há outras características importantes a se examinar, como o número de ativos e de inquilinos, a gestão do fundo e o tipo de contrato.&lt;/p&gt;
+
+&lt;p&gt;Espero ter conseguido transmitir essa variedade sem nenhum viés, uma vez que acredito que não há uma combinação ideal dessas características. Há apenas uma série de fundos imobiliários que podemos utilizar para compor um belo portfólio.&lt;/p&gt;
+
+&lt;p&gt;Se você é iniciante, vou listar algumas formas de continuar esse estudo, porque leva um certo tempo mesmo para processar tudo isso:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.youtube.com/user/avmvideo&quot;&gt;Canal do Youtube: Arthur Vieira de Moraes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.youtube.com/channel/UC_EgIutU-5PluzZ0fzWppog&quot;&gt;Canal do Youtube: ClubeFii&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.amazon.com.br/gp/product/B00JGZOLOG/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00JGZOLOG&amp;amp;linkCode=as2&amp;amp;tag=granaio-20&amp;amp;linkId=9618129f6c852200953211b5da24bf85&quot;&gt;Livro: Introdução aos Fundos de Investimento Imobiliário&lt;/a&gt;&lt;img src=&quot;//ir-br.amazon-adsystem.com/e/ir?t=granaio-20&amp;amp;l=am2&amp;amp;o=33&amp;amp;a=B00JGZOLOG&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt; do André Bacci&lt;/li&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.amazon.com.br/gp/product/B07D6W4CTQ/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B07D6W4CTQ&amp;amp;linkCode=as2&amp;amp;tag=granaio-20&amp;amp;linkId=1882997b3fbf63875f642c226605262d&quot;&gt;Livro: Fundos de Investimento Imobiliário: Aspectos Gerais e Princípios de Análise&lt;/a&gt;&lt;img src=&quot;//ir-br.amazon-adsystem.com/e/ir?t=granaio-20&amp;amp;l=am2&amp;amp;o=33&amp;amp;a=B07D6W4CTQ&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt; do Roni Antônio Mendes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Faltou alguma coisa? Pulei algum assunto? Compartilhe sua impressão 👍&lt;/p&gt;</content><author><name></name></author><category term="fundos-imobiliários" /><summary type="html">Hoje vamos explorar a diversidade dos fundos imobiliários e também as suas principais características.</summary></entry><entry><title type="html">As pegadinhas ao analisar Fundos Imobiliários</title><link href="https://grana.io/blog/as-pegadinhas-ao-analisar-fundos-imobiliarios" rel="alternate" type="text/html" title="As pegadinhas ao analisar Fundos Imobiliários" /><published>2018-04-18T00:00:00-03:00</published><updated>2018-04-18T00:00:00-03:00</updated><id>https://grana.io/blog/as-pegadinhas-ao-analisar-fundos-imobiliarios</id><content type="html" xml:base="https://grana.io/blog/as-pegadinhas-ao-analisar-fundos-imobiliarios">&lt;p&gt;Há dois indicadores que aprendemos no início dos estudos de Fundos de Investimento Imobiliário. São eles o &lt;strong&gt;Dividend Yield&lt;/strong&gt; e o &lt;strong&gt;Valor Patrimonial por Ação&lt;/strong&gt; ou &lt;strong&gt;por Cota&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por mais que ambos os indicadores sejam úteis para fazer algumas comparações, é preciso tomar cuidado com algumas pegadinhas que podem distorcer os números.&lt;/p&gt;
+
+&lt;p&gt;O objetivo desse post é mostrar como é importante conhecer o que está passando com o fundo, antes de utilizar os indicadores friamente.&lt;/p&gt;
+
+&lt;p&gt;Atenção: Os fundos que utilizo como exemplo não são uma recomendação de compra ou de venda.&lt;/p&gt;
+
+&lt;h2 class=&quot;near-black fw6&quot;&gt;P/VPA&lt;/h2&gt;
+
+&lt;p&gt;O &lt;strong&gt;Preço / Valor Patrimonial por Ação&lt;/strong&gt; (P/VPA) é a razão de quanto você está comprando de patrimônio pelo preço que está pagando.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Mito: P/VPA &amp;lt; 1 significa que está barato&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Se estou pagando R$100 por um valor patrimonial de R$120, é um bom negócio?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O mercado desconta o P/VPA quando o fundo está com algum problema ou enfrentando alguma adversidade. É o caso do &lt;a href=&quot;https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=23231&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;TRXL11&lt;/code&gt;&lt;/a&gt; que está com vacância de 50% por bastante tempo. O P/VPA está em 0,68 atualmente.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Com o tempo você pode até aprender a arbitrar se um desconto no P/VPA está justo ou exagerado. Mas via de regra desconfie de um P/VPA &amp;lt; 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Mito: P/VPA &amp;gt; 1 significa que está caro&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Se estou pagando R$120 por um valor patrimonial de R$100, é um mal negócio?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O mercado paga um prêmio em termos de P/VPA quando o fundo se mostra resiliente, bem gerido, com ativos bons, bom histórico de vacância. Há prêmio também quando o fundo possui contratos atípicos de longa duração.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Visto que há uma certa garantia do fundo continuar indo bem, então pode-se pagar um pouco mais por ele.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;É o caso do &lt;a href=&quot;https://www.clubefii.com.br/fundo_imobiliario.aspx?cod=PQDP11#patrimonial&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;PQDP11&lt;/code&gt;&lt;/a&gt;, shopping excelente, bem localizado, que mesmo durante a crise manteve ocupação de 98%. O P/VPA hoje se encontra em 1,23.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;É também o caso do &lt;a href=&quot;https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=24965&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;FCFL11&lt;/code&gt;&lt;/a&gt;, um fundo mono-imóvel e praticamente mono-inquilino que aluga o prédio para a Faculdade Insper, com um contrato até 2037. É improvável que a faculdade saia de lá. Essa segurança faz com que o P/VPA se encontre em 1,41.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Limitações do Valor Patrimonial&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Outro ponto interessante é que o valor patrimonial não é calculado sempre. Então de tempos em tempos você vai ver pulos no P/VPA quando o valor patrimonial é atualizado. Não há um calendário para esse cálculo, então você pode estar comparando um fundo cujo P/VPA foi atualizado ontem com um fundo que está a 6 meses sem atualização.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Essa &lt;a href=&quot;https://www.youtube.com/watch?v=THRr-slgYuY&quot; target=&quot;_blank&quot;&gt;entrevista com André Bacci&lt;/a&gt; fala bastante sobre isso.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 class=&quot;near-black fw6&quot;&gt;Dividend Yield&lt;/h2&gt;
+
+&lt;p&gt;O &lt;strong&gt;Dividend Yield&lt;/strong&gt; (DY) é quanto o fundo paga em dividendos/aluguéis dividido pelo valor da cota. É um indicador importante, porém ele pode ser distorcido por vários fatores:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Aluguéis Anuais&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Alguns fundos, como o &lt;a href=&quot;https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=25502&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;FIIP11B&lt;/code&gt;&lt;/a&gt;, possuem inquilinos que pagam o aluguel uma vez por ano. Isso distorce o DY se você analisar um período de menos de 1 ano. O preço das cotas também costuma ter mais volatilidade nessa época.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Multas de Rescisão&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Quando um inquilino rescinde um contrato, ele geralmente paga uma multa. Essa multa pode fazer com que o histórico de distribuição pareça normal, porque a multa compensou a saída ou pode até causar um pico no DY.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O caso clássico é do &lt;a href=&quot;https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=13452&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ALMI11&lt;/code&gt;&lt;/a&gt;, fundo proprietário da Torre Almirante, que era 99% ocupado pela Petrobrás. O fundo costumava distribuir R$25/cota, até que um dia a Petrobrás decidiu sair pagando multa de R$85/cota. Desde então, o fundo não distribuiu mais aluguéis enquanto busca inquilinos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Amortização&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O gestor do fundo pode optar por devolver parte do capital que ele possuía para investir. Essa devolução de capital é a amortização do fundo. O valor aparece na conta da corretora como se fosse uma distribuição de resultados, porém não é.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;É um evento mais raro de acontecer, mas acontece.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Renda Mensal Garantida (RMG)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Alguns fundos possuem essa garantia de rendimentos, dada geralmente pela empresa que desenvolveu o empreendimento. O &lt;a href=&quot;https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=24844&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;FIGS11&lt;/code&gt;&lt;/a&gt;, por exemplo, possui RMG de 10% ao ano até Abril/2019 pela empresa General Shopping.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Quando o resultado do fundo não chega no valor garantido, a empresa complementa com o que falta. No relatório é possível observar o tamanho do complemento, nesse caso temos um complemento da ordem de 60%. Caso a empresa venha a faltar, o DY desse fundo pode cair bastante.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A RMG é racionalizada como um complemento de renda até o ativo ficar maduro, porém nem sempre o ativo chegar ao patamar desejado, como aconteceu com o &lt;a href=&quot;https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=7626&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;JRDM11&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Se for comparar, compare dentro do mesmo segmento&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Não adianta comparar o DY de um fundo de shopping com fundo de lajes comerciais. Nesse caso, por exemplo, os fundos de shopping costumam ter DY mais baixos, uma vez que são mais resilientes. É o preço que se paga por ter um ativo com taxa de vacância quase sempre perto dos 5%.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 class=&quot;near-black fw6&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;Ambos indicadores são úteis para analisar os fundos de investimento imobiliário.&lt;/p&gt;
+
+&lt;p&gt;Porém, pode ser mais proveitoso entender porque um indicador se encontra naquele patamar ao invés de simplesmente descartar fundos que não se enquadrem em determinados padrões.&lt;/p&gt;
+
+&lt;p&gt;Focar em um segmento, como por exemplo lajes corporativas, logístico ou shopping pode ser um bom primeiro passo para ir se acostumando com os índices daquele segmento.&lt;/p&gt;
+
+&lt;p&gt;Os dados foram tirados do &lt;a href=&quot;http://www.clubefii.com.br/?cod_id=31907485&quot; target=&quot;_blank&quot;&gt;Clube Fii&lt;/a&gt; e também do &lt;a href=&quot;http://bastter.com&quot; target=&quot;_blank&quot;&gt;Bastter.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Bom proveito!&lt;/p&gt;</content><author><name></name></author><category term="fundos-imobiliários" /><summary type="html">Há dois indicadores que aprendemos no início dos estudos de Fundos de Investimento Imobiliário. São eles o Dividend Yield e o Valor Patrimonial por Ação ou por Cota.</summary></entry><entry><title type="html">Como calcular o valor atual de um CDB Prefixado</title><link href="https://grana.io/blog/como-calcular-o-valor-atual-de-um-cdb-prefixado" rel="alternate" type="text/html" title="Como calcular o valor atual de um CDB Prefixado" /><published>2018-03-07T00:00:00-03:00</published><updated>2018-03-07T00:00:00-03:00</updated><id>https://grana.io/blog/como-calcular-o-valor-atual-de-um-cdb-prefixado</id><content type="html" xml:base="https://grana.io/blog/como-calcular-o-valor-atual-de-um-cdb-prefixado">&lt;p&gt;Os CDBs prefixados podem ser uma boa opção de investimento quando você espera uma queda na taxa de juros. Você consegue “travar” uma taxa que numa questão de meses acaba deixando saudades.&lt;/p&gt;
+
+&lt;p&gt;Agora, o &lt;a href=&quot;/rendafixa&quot;&gt;Renda Fixa Sheets&lt;/a&gt; também consegue calcular o valor atual dos seus CDBs prefixados. Basta utilizar a fórmula abaixo:&lt;/p&gt;
+
+&lt;pre&gt;
+  =CDBPRE(&quot;22/09/2017&quot;; 9%; 1000)
+  =CDBPRE(data_inicial; rentabilidade; valor_inicial)
+&lt;/pre&gt;
+
+&lt;p&gt;Se você desejar entender como a conta funciona, eu explico 😀&lt;/p&gt;
+
+&lt;h2 class=&quot;near-black fw6&quot;&gt;Como funciona&lt;/h2&gt;
+
+&lt;p&gt;Os CDBs prefixados são simples de se calcular, uma vez que eles não dependem de outras variáveis como CDI ou índices de inflação.&lt;/p&gt;
+
+&lt;p&gt;Primeiro, vamos converter a taxa anual contratada em uma taxa diária, utilizando a seguinte fórmula:&lt;/p&gt;
+
+&lt;pre&gt;
+  Taxa Diária = Taxa Anual ^ 1/252
+&lt;/pre&gt;
+
+&lt;p&gt;Esse número mágico “252” da fórmula é uma convenção de mercado. Assume-se que o ano terá 252 dias úteis, porém esse nem sempre é o caso. Você pode utilizar a &lt;a href=&quot;http://www.anbima.com.br/feriados/feriados.asp&quot;&gt;tabela de feriados bancários&lt;/a&gt; que a Ambima divulga para descontar os feriados da nossa conta.&lt;/p&gt;
+
+&lt;p&gt;Tendo o número de dias úteis desde a data inicial, agora podemos obter o valor atual do CDB.&lt;/p&gt;
+
+&lt;pre&gt;
+  Valor Atual = Valor Inicial * Taxa Diária ^ (Número de Dias Úteis)
+&lt;/pre&gt;
+
+&lt;p&gt;Note que por não depender de nada, é possível até saber quanto o CDB vai render até o final, basta contar o número de dias até o vencimento.&lt;/p&gt;
+
+&lt;h2 class=&quot;near-black fw6&quot;&gt;Simplifique suas finanças&lt;/h2&gt;
+
+&lt;p&gt;Aproveite seu tempo livre, deixe essas e outras contas para o &lt;a href=&quot;/rendafixa&quot;&gt;Renda Fixa Sheets&lt;/a&gt; 😀&lt;/p&gt;
+
+&lt;div class=&quot;tc&quot;&gt;
+  &lt;a rel=&quot;nofollow&quot; href=&quot;/rendafixa&quot; target=&quot;_blank&quot; class=&quot;center br3 f5-ns ph3-ns pv2-ns f4 ph2 pv1 fw6 mb2 dib grow bg-action white&quot;&gt;Instalar o Renda Fixa Sheets&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Bom proveito!&lt;/p&gt;</content><author><name></name></author><category term="renda-fixa" /><category term="google-sheets" /><category term="novidades" /><summary type="html">Os CDBs prefixados podem ser uma boa opção de investimento quando você espera uma queda na taxa de juros. Você consegue “travar” uma taxa que numa questão de meses acaba deixando saudades.</summary></entry><entry><title type="html">Novos indicadores de Bitcoin</title><link href="https://grana.io/blog/novos-indicadores-de-bitcoin" rel="alternate" type="text/html" title="Novos indicadores de Bitcoin" /><published>2018-02-20T00:00:00-03:00</published><updated>2018-02-20T00:00:00-03:00</updated><id>https://grana.io/blog/novos-indicadores-de-bitcoin</id><content type="html" xml:base="https://grana.io/blog/novos-indicadores-de-bitcoin">&lt;p&gt;Você pode achar que Bitcoin é o &lt;a target=&quot;_blank&quot; href=&quot;https://www.amazon.com.br/gp/product/B01L9WM0H8/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B01L9WM0H8&amp;amp;linkCode=as2&amp;amp;tag=granaio-20&amp;amp;linkId=7362e301f285032bccb81406827d0e25&quot;&gt;futuro do dinheiro&lt;/a&gt;&lt;img src=&quot;//ir-br.amazon-adsystem.com/e/ir?t=granaio-20&amp;amp;l=am2&amp;amp;o=33&amp;amp;a=B01L9WM0H8&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt; ou pode achar que é uma bolha.&lt;/p&gt;
+
+&lt;p&gt;Porém, o Bitcoin veio para ficar.&lt;/p&gt;
+
+&lt;p&gt;Usando o &lt;a href=&quot;/indicadores&quot;&gt;Indicadores Sheets&lt;/a&gt; você pode acompanhar as cotações em diferentes exchanges e agora mais alguns indicadores interessantes inspirados pelo &lt;a href=&quot;https://bitvalor.com&quot; target=&quot;\_blank&quot;&gt;bitValor&lt;/a&gt;:&lt;/p&gt;
+
+&lt;pre&gt;
+  =BITCOIN(&quot;agio_comercial&quot;)
+  =BITCOIN(&quot;agio_turismo&quot;)
+  =BITCOIN(&quot;dolar_bitcoin&quot;)
+&lt;/pre&gt;
+
+&lt;p&gt;Esse post explica com mais detalhes essas novas funcionalidades.&lt;/p&gt;
+
+&lt;h2 class=&quot;near-black fw6&quot;&gt;Dólar Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;O Dólar Bitcoin é o valor que se obtém ao dividir o preço local do Bitcoin, calculado pela &lt;a href=&quot;https://bitvalor.com&quot; target=&quot;\_blank&quot;&gt;bitValor&lt;/a&gt;, pelo preço internacional do Bitcoin em dólar.&lt;/p&gt;
+
+&lt;p&gt;Para chegar à um preço único, é feita uma média dos preços ponderada pelo volume transacionado nas exchanges.&lt;/p&gt;
+
+&lt;p&gt;Vamos a um exemplo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 Bitcoin = R$35.000&lt;/li&gt;
+  &lt;li&gt;1 Bitcoin = $10.000&lt;/li&gt;
+  &lt;li&gt;Dólar Bitcoin = R$3,50&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Perceba que o dólar Bitcoin tem uma relação interessante com o dólar turismo:&lt;/p&gt;
+
+&lt;p&gt;Se o dólar turismo estiver em R$3,00:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Você poderia comprar R$30,000 em dólar turismo, mandar para o exterior e comprar Bitcoin. Depois vender por R$35,000 reais ou simplesmente ficar com os Bitcoins &lt;strong&gt;#HODL&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Se o dólar turismo estiver próximo de R$3,50:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;O trâmite já não compensa devido as taxas que se paga e IOF.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Se o dólar turismo estiver em R$4,00:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Você poderia comprar Bitcoin no Brasil e converter no exterior por dólares, fazendo o caminho inverso do primeiro cenário.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Escolhemos o dólar turismo porque ele é acessível pelas pessoas comuns. O dólar comercial não, contudo as mesmas contas podem ser realizadas.&lt;/p&gt;
+
+&lt;p&gt;Naturalmente, o dólar Bitcoin fica próximo ao dólar turismo por questão dos cenários de arbitragem acima.&lt;/p&gt;
+
+&lt;h2 class=&quot;near-black fw6&quot;&gt;Altcoins&lt;/h2&gt;
+
+&lt;p&gt;O dólar Bitcoin também serve para se obter o valor de altcoins em Reais, para fazer um controle do seu portfólio, por exemplo.&lt;/p&gt;
+
+&lt;p&gt;Se você tem 1 Ethereum, que vale $850, basta multiplicar o valor pelo dólar bitcoin.&lt;/p&gt;
+
+&lt;p&gt;Seria o equivalente a trocar o Ethereum por Bitcoin, vender no Brasil e sacar em Reais.&lt;/p&gt;
+
+&lt;h2 class=&quot;near-black fw6&quot;&gt;Ágio Comercial / Turismo&lt;/h2&gt;
+
+&lt;p&gt;Conforme explicado anteriormente, é interessante ficar de olho nessa relação entre o dólar bitcoin e o dólar turismo. Vou compartilhar um pouco da minha interpretação, mas já adianto que existem muitas mais.&lt;/p&gt;
+
+&lt;p&gt;O Ágio Turismo é o valor que se obtém fazendo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;pre&gt;Dólar Bitcoin / Dólar Turismo - 100%&lt;/pre&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Quando o valor está em 0%:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;O mais comum é ficar por aqui, alguns pontos para cima ou para baixo.&lt;/li&gt;
+  &lt;li&gt;Mercado local e internacional estão em equilíbrio.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Quanto o valor está bem acima de 0%:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Significa que estamos pagando “caro” pelo Bitcoin no Brasil.&lt;/li&gt;
+  &lt;li&gt;Quando a demanda brasileira está mais acelerada que a internacional.&lt;/li&gt;
+  &lt;li&gt;Ou um movimento de queda internacional ainda não chegou.&lt;/li&gt;
+  &lt;li&gt;Cenários de euforia, &lt;a href=&quot;https://g1.globo.com/economia/noticia/me-aposento-em-seis-meses-brasileiros-largam-emprego-e-faculdade-para-se-dedicar-ao-bitcoin.ghtml&quot; target=&quot;\_blank&quot;&gt;quando tudo o que se fala é Bitcoin&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Quanto o valor está abaixo 0%:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Significa que estamos pagando “barato” pelo Bitcoin no Brasil.&lt;/li&gt;
+  &lt;li&gt;Quando a demanda brasileira está mais pessimista que a internacional.&lt;/li&gt;
+  &lt;li&gt;Ou um movimento de alta internacional ainda não chegou.&lt;/li&gt;
+  &lt;li&gt;Observado nas &lt;a href=&quot;https://www.youtube.com/watch?v=HyLnYT0F5C8&quot; target=&quot;\_blank&quot;&gt;quedas típicas de Janeiro.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;É um número importante de se interpretar antes de fazer aportes.&lt;/p&gt;
+
+&lt;h2 class=&quot;near-black fw6&quot;&gt;Exchanges&lt;/h2&gt;
+
+&lt;p&gt;Aproveitamos também para remover a exchange &lt;a href=&quot;http://www.arenabitcoin.com.br/&quot;&gt;Arena Bitcoin&lt;/a&gt; que está saindo do ar por tempo indeterminado e adicionamos a exchange &lt;a href=&quot;https://braziliex.com/&quot;&gt;Braziliex&lt;/a&gt;. Veja mais na &lt;a href=&quot;/ajuda&quot;&gt;página de ajuda&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Isso não é uma recomendação. Antes de usar uma exchange, pesquise bastante.&lt;/p&gt;
+
+&lt;h2 class=&quot;near-black fw6&quot;&gt;Simplifique suas finanças&lt;/h2&gt;
+
+&lt;p&gt;Aproveite seu tempo livre, deixe essas e outras contas para o &lt;a href=&quot;/indicadores&quot;&gt;Indicadores Sheets&lt;/a&gt; 😀&lt;/p&gt;
+
+&lt;div class=&quot;tc&quot;&gt;
+  &lt;a rel=&quot;nofollow&quot; href=&quot;/indicadores&quot; target=&quot;_blank&quot; class=&quot;center br3 f5-ns ph3-ns pv2-ns f4 ph2 pv1 fw6 mb2 dib grow bg-action white&quot;&gt;Instalar o Indicadores Sheets&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Bom proveito!&lt;/p&gt;</content><author><name></name></author><category term="indicadores" /><category term="google-sheets" /><category term="novidades" /><summary type="html">Você pode achar que Bitcoin é o futuro do dinheiro ou pode achar que é uma bolha.</summary></entry><entry><title type="html">Como acompanhar seus investimentos no Tesouro Direto</title><link href="https://grana.io/blog/como-acompanhar-seus-investimentos-no-tesouro-direto" rel="alternate" type="text/html" title="Como acompanhar seus investimentos no Tesouro Direto" /><published>2018-02-09T00:00:00-02:00</published><updated>2018-02-09T00:00:00-02:00</updated><id>https://grana.io/blog/como-acompanhar-seus-investimentos-no-tesouro-direto</id><content type="html" xml:base="https://grana.io/blog/como-acompanhar-seus-investimentos-no-tesouro-direto">&lt;p&gt;O Tesouro Direto oferece excelentes oportunidades de investimento. Temos uma gama de títulos para escolher e cada um deles com características diferentes, que impactam a liquidez, rentabilidade e volatilidade do investimento.&lt;/p&gt;
+
+&lt;p&gt;É preciso ter um plano ao investir no Tesouro Direto, que responda as seguintes questões, entre outras:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quanto vou investir em cada tipo de título? (IPCA, Selic, Pre)&lt;/li&gt;
+  &lt;li&gt;Qual proporção será mais de longo prazo?&lt;/li&gt;
+  &lt;li&gt;Qual proporção preciso deixar pronta para resgate?&lt;/li&gt;
+  &lt;li&gt;Qual proporção desejo utilizar para especular?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A resposta é pessoal, depende dos seus planos de vida e seu perfil de investidor.&lt;/p&gt;
+
+&lt;p&gt;Nesse post, vamos focar no aspecto do acompanhamento dessas métricas, para que mês a mês você possa investir de acordo com seus seus planos.&lt;/p&gt;
+
+&lt;h2 class=&quot;near-black&quot;&gt;Planilha&lt;/h2&gt;
+
+&lt;p&gt;A planilha possui duas abas.&lt;/p&gt;
+
+&lt;p&gt;Na primeira, vemos um panorama dos investimentos no Tesouro Direto, que pode ser usado para planejar seus próximos aportes. Os gráficos são apenas sugestões de métricas as quais o investidor deve estar atento.&lt;/p&gt;
+
+&lt;p&gt;Os dados são atualizados automaticamente com a ajuda do &lt;a href=&quot;/&quot;&gt;Tesouro Direto Sheets&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.38.17.png&quot; class=&quot;db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Na segunda aba é onde você vai listar suas movimentações no Tesouro Direto. Basta anotar qual título você comprou ou vendeu, a data, a quantidade de títulos, o valor investido total e a data de vencimento do título.&lt;/p&gt;
+
+&lt;p&gt;Ao atualizar a segunda aba, a primeira se atualiza sozinha.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.38.29.png&quot; class=&quot;db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Você pode baixar o template e sair usando ou pode seguir o passo a passo para aprender como tudo funciona.&lt;/p&gt;
+
+&lt;div class=&quot;tc&quot;&gt;
+  &lt;a rel=&quot;nofollow&quot; href=&quot;/t/1/template-tesouro-direto&quot; target=&quot;_blank&quot; class=&quot;center br3 f5-ns ph3-ns pv2-ns f4 ph2 pv1 fw6 mb2 dib grow bg-action white&quot;&gt;Baixar Template&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;near-black&quot;&gt;Passo a passo&lt;/h2&gt;
+
+&lt;p&gt;Vou mostrar o passo a passo de como criar essa planilha. No final do post você encontra o link para o template finalizado, que você pode duplicar e sair usando 👍&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No Google Drive, apertar novo e depois selecionar Planilhas Google.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.04.09.png&quot; class=&quot;w-60 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A primeira aba será nossa lista de movimentações. Adicione alguns dados de exemplo. Note que as últimas colunas podem ser calculadas a partir da primeira.
+    &lt;ul&gt;
+      &lt;li&gt;vencimento: &lt;code class=&quot;highlighter-rouge&quot;&gt;=REGEXEXTRACT(B5; &quot;\d+&quot;)&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;indexador: &lt;code class=&quot;highlighter-rouge&quot;&gt;=REGEXEXTRACT(B5; &quot;Tesouro (\w+)&quot;)&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.05.17.png&quot; class=&quot;w-80 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Selecione a tabela toda e vá em &lt;code class=&quot;highlighter-rouge&quot;&gt;Dados &amp;gt; Tabela Dinâmica&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.05.45.png&quot; class=&quot;w-80 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No editor da tabela dinâmica, vamos adicionar:
+    &lt;ul&gt;
+      &lt;li&gt;Linhas: &lt;code class=&quot;highlighter-rouge&quot;&gt;título&lt;/code&gt; (classificar por &lt;code class=&quot;highlighter-rouge&quot;&gt;vencimento&lt;/code&gt;)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.07.05.png&quot; class=&quot;w-50 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;E depois os valores:
+    &lt;ul&gt;
+      &lt;li&gt;Soma de &lt;code class=&quot;highlighter-rouge&quot;&gt;quantidade&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;Campo calculado &lt;code class=&quot;highlighter-rouge&quot;&gt;=vencimento&lt;/code&gt; (resumir personalizado)&lt;/li&gt;
+      &lt;li&gt;Campo calculado &lt;code class=&quot;highlighter-rouge&quot;&gt;=indexador&lt;/code&gt; (resumir personalizado)&lt;/li&gt;
+      &lt;li&gt;Soma de &lt;code class=&quot;highlighter-rouge&quot;&gt;investido&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.07.41.png&quot; class=&quot;w-50 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Essa é a nossa tabela atual de resumo. Renomeie os campos:
+    &lt;ul&gt;
+      &lt;li&gt;quantidade&lt;/li&gt;
+      &lt;li&gt;vencimento&lt;/li&gt;
+      &lt;li&gt;indexador&lt;/li&gt;
+      &lt;li&gt;total investido&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.08.11.png&quot; class=&quot;w-80 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Para calcular o valor atual dos investimentos, vamos precisar de um complemento. Selecione &lt;code class=&quot;highlighter-rouge&quot;&gt;Complementos &amp;gt; Instalar complementos...&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.08.42.png&quot; class=&quot;w-40 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Faça a busca por &lt;code class=&quot;highlighter-rouge&quot;&gt;grana.io&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.08.56.png&quot; class=&quot;db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Selecione o &lt;a href=&quot;/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Tesouro Direto Sheets&lt;/code&gt;&lt;/a&gt; e clique em &lt;code class=&quot;highlighter-rouge&quot;&gt;Grátis&lt;/code&gt; para instalar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.09.09.png&quot; class=&quot;db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Selecione sua conta e dê as permissões para que o complemento possa buscar as informações e atualizar sua planilha&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.09.23.png&quot; class=&quot;w-60 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pronto! Quando aparecer o balão abaixo é porque o complemento foi instalado:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.09.36.png&quot; class=&quot;w-50 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Voltando à tabela de resumo, na linha seguinte utilizamos a nova fórmula &lt;code class=&quot;highlighter-rouge&quot;&gt;=TESOURODIRETO&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.09.51.png&quot; class=&quot;w-80 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Passando o nome do título como primeiro parâmetro e &lt;code class=&quot;highlighter-rouge&quot;&gt;preco_venda&lt;/code&gt; como segundo. Isso nos dá o preço de uma unidade do título, então precisamos multiplicar pela quantidade que temos:
+    &lt;ul&gt;
+      &lt;li&gt;valor atual: &lt;code class=&quot;highlighter-rouge&quot;&gt;=TESOURODIRETO(A2; &quot;preco_venda&quot;) * B2&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.10.11.png&quot; class=&quot;w-80 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Arraste essa fórmula para todas as linhas e formate a coluna como R$.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.10.27.png&quot; class=&quot;w-80 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Outra informação que queremos exibir é o retorno de investimento. Fazemos a fórmula &lt;code class=&quot;highlighter-rouge&quot;&gt;valor atual / total investido - 100%&lt;/code&gt;
+    &lt;ul&gt;
+      &lt;li&gt;retorno: &lt;code class=&quot;highlighter-rouge&quot;&gt;=G5/F5 - 100%&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.10.48.png&quot; class=&quot;w-80 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Para facilitar a visualização do retorno que temos, selecione &lt;code class=&quot;highlighter-rouge&quot;&gt;Formatar &amp;gt; Formatação condicional...&lt;/code&gt;
+&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.11.13.png&quot; class=&quot;w-80 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Selecione &lt;code class=&quot;highlighter-rouge&quot;&gt;Escala de cores&lt;/code&gt;:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Visualização: vermelho para verde&lt;/li&gt;
+      &lt;li&gt;Ponto médio: 0 (número)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.11.29.png&quot; class=&quot;w-80 db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Embeleze sua planilha ✨
+    &lt;ul&gt;
+      &lt;li&gt;Fonte &lt;code class=&quot;highlighter-rouge&quot;&gt;Comfortaa&lt;/code&gt; tamanho &lt;code class=&quot;highlighter-rouge&quot;&gt;12&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;Aplicar branco como cor de fundo&lt;/li&gt;
+      &lt;li&gt;Aplicar preto como cor do texto&lt;/li&gt;
+      &lt;li&gt;Adicione algumas bordas&lt;/li&gt;
+      &lt;li&gt;Ajuste os espaços&lt;/li&gt;
+      &lt;li&gt;Pronto!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;near-black&quot;&gt;Resultado Final&lt;/h2&gt;
+
+&lt;p&gt;Depois de embelezar a planilha, também coloquei mais 2 gráficos que foram feitos selecionando as colunas dos dados. Abaixo você confere o resultado final e o link para acessar o template.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/post-tesouro-direto/Screen Shot 2018-02-09 at 09.38.17.png&quot; class=&quot;db center bg-light-gray pa2 br2&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;tc&quot;&gt;
+  &lt;a rel=&quot;nofollow&quot; href=&quot;/t/0/template-tesouro-direto&quot; target=&quot;_blank&quot; class=&quot;center br3 f5-ns ph3-ns pv2-ns f4 ph2 pv1 fw6 mb2 dib grow bg-action white&quot;&gt;Baixar Template&lt;/a&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="tesouro-direto" /><category term="google-sheets" /><category term="templates" /><summary type="html">O Tesouro Direto oferece excelentes oportunidades de investimento. Temos uma gama de títulos para escolher e cada um deles com características diferentes, que impactam a liquidez, rentabilidade e volatilidade do investimento.</summary></entry></feed>
