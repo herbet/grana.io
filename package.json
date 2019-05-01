@@ -4,10 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.16.4",
-    "helmet": "^3.16.0"
+    "helmet": "^3.16.0",
+    "superagent": "^5.0.5"
   },
   "scripts": {
     "start": "node ."
