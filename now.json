@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "grana.io",
+  "alias": ["granaio"],
   "builds": [
     { "src": "**/*.js", "use": "@now/node" }
   ]

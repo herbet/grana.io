@@ -6,7 +6,7 @@ const cheerio = require('cheerio')
 const app = express()
 
 var data = "loading...";
-axios.get('https://www.globo.com')
+axios.get({ url: 'https://www.globo.com' })
 .then(response => {
   data = cheerio.load(response.data)('h1').text();
 })
