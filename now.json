@@ -3,6 +3,11 @@
   "name": "grana.io",
   "alias": ["granaio"],
   "builds": [
-    { "src": "**/*.js", "use": "@now/node" }
+    { "src": "**/*.js", "use": "@now/node" },
+    { "src": "blog/_site", "use": "@now/static", "config": { "distDir": "_site" } }
+  ],
+  "routes": [
+    { "src": "/ipca", "dest": "/index.js" },
+    { "src": "/(.*)", "dest": "/blog/_site/$1" }
   ]
 }
