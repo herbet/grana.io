@@ -3,10 +3,14 @@ const helmet = require('helmet')
 const axios = require('axios')
 const cheerio = require('cheerio')
 
+var http = require('http');
+var agent = new http.Agent({ family: 4 });
+axios.defaults.httpAgent = agent;
+
 const app = express()
 
 var data = "loading...";
-axios.get({ url: 'https://www.globo.com' })
+axios.get('https://www.globo.com')
 .then(response => {
   data = cheerio.load(response.data)('h1').text();
 })
