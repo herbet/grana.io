@@ -4,7 +4,7 @@
   "alias": ["granaio"],
   "builds": [
     { "src": "**/*.js", "use": "@now/node" },
-    { "src": "blog/_site", "use": "@now/static", "config": { "distDir": "_site" } }
+    { "src": "blog/_site/**", "use": "@now/static" }
   ],
   "routes": [
     { "src": "/ipca", "dest": "/index.js" },
