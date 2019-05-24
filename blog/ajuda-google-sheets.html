@@ -1,0 +1,46 @@
+---
+title: "Ajuda"
+layout: single
+---
+
+<section class="bg-super-light-blue">
+  <article class="cf w-90 w-60-l mw7 center pv4 tc">
+    <h1 class="fw5">Guia de Instalação</h1>
+  </article>
+
+  <article class="cf w-80 center pv4">
+    <div class="card shadow w-100 p2 mb1">
+      <h2 style="margin-top: 1em">Passo 0: Entendendo o que aconteceu</h2>
+      <p class="f5 near-black">No dia 15/03/2019 os complementos do Grana.io foram acidentalmente removidos. O processo de registro de um complemento é demorado e doloroso, portanto os complementos devem ser instalados conforme os passos abaixo de agora em diante.</p>
+      <p class="f5 near-black">É necessário realizar os passos em cada planilha em que você quiser usar os complementos do Grana.io.</p>
+      <p class="f5 near-black">Em caso de dúvidas, <a class='action link underline' href='mailto:suporte@grana.io'>fale com a gente.</a></p>
+      <h2>Passo 1: Clicar em Ferramentas -> Editor de Script.</h2>
+      <p>Uma nova aba será abarta com o editor de script.</p>
+      <br/>
+      <div><img src="<%= static_path(@conn, "/images/step1.png") %>" /></div>
+      <h2>Passo 2: Apagar o conteúdo do arquivo "Código.gs".</h2>
+      <div><img src="<%= static_path(@conn, "/images/step2.png") %>" /></div>
+      <h2>Passo 3: Copiar o conteúdo do link abaixo e colar no "Código.gs".</h2>
+      <p>Clique aqui para <a href="https://raw.githubusercontent.com/buccolo/grana-io-sheets/master/code.js" target="_blank">ver o conteúdo.</a> É importante ter certeza que TODO o conteúdo foi copiado e colado.</p>
+      <br/>
+      <div><img src="<%= static_path(@conn, "/images/step3.png") %>" /></div>
+      <h2>Passo 4: Salvar e testar</h2>
+      <p>Clique no ícone do disquete para salvar. Será perguntato o nome do projeto, você pode digitar o que quiser e clicar Ok. Espere alguns segundos e quando a operação tiver terminado você pode fechar essa aba do navegador.</p>
+      <p>Voltando para a planilha original, digite a seguinte fórmula para testar:</p>
+      <pre>=TESOURODIRETO("Tesouro Selic 2023";"preco_venda")</pre>
+      <p>Durante o uso, você pode ver a mensagem "Função desconhecida", porém isso não afeta o funcionamento.</p>
+      <br/>
+      <div><img src="<%= static_path(@conn, "/images/step4.png") %>" /></div>
+      <h2>Passo 5: Entendendo o futuro do Grana.io</h2>
+      <p>Infelizmente o Grana.io não foi um projeto bem sucedido. Não houve interesse suficiente de usuários e o projeto deve encerrar assim que o último assinante completar 1 ano de uso no dia 13 de Julho de 2019.</p>
+      <p>A cobrança recorrente foi devidamente encerrada na Cielo no final de 2018, portanto ninguém será cobrado novamente.</p>
+      <p>O projeto pode continuar funcionando depois dessa data acima para quem foi assinante. Porém, não há garantias de quanto tempo ele ficará disponível.</p>
+      <p>Peço desculpas pelo inconveniente e agradeço pelo interesse dos poucos usuários que tivemos.</p>
+      <p>Bruno Buccolo</p>
+    </div>
+  </article>
+
+  <style>
+  h2 { margin-top: 1.5em; }
+  </style>
+</section>

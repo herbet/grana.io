@@ -1,7 +1,8 @@
 {
   "version": 2,
   "name": "grana.io",
-  "alias": ["granaio"],
+  "alias": ["granaio", "grana.io"],
+  "regions": ["gru"],
   "builds": [
     { "src": "**/*.js", "use": "@now/node" },
     { "src": "blog/_site/**", "use": "@now/static" }

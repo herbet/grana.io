@@ -1,0 +1,576 @@
+---
+title: "Ajuda"
+layout: single
+---
+
+<section class="bg-super-light-blue">
+  <section class="flex-ns center pa3">
+    <div class="w-100 p4-ns">
+      <div class="bg-light-red pa3">
+        <svg class="w1" data-icon="info" viewBox="0 0 32 32" style="fill:currentcolor">
+          <title>info icon</title>
+          <path d="M16 0 A16 16 0 0 1 16 32 A16 16 0 0 1 16 0 M19 15 L13 15 L13 26 L19 26 z M16 6 A3 3 0 0 0 16 12 A3 3 0 0 0 16 6"></path>
+        </svg>
+
+        <span class="lh-title ml3">Os complementos do Grana.io agora devem ser instalados de acordo com <a class="black underline" href="/ajuda-google-sheets">o novo guia de instalação.</a> (16/03/2019)</span>
+      </div>
+    </div>
+  </section>
+
+  <article class="cf w-90 w-60-l mw7 center pv4 tc">
+    <h1 class="fw5">Central de Ajuda</h1>
+    <p class="f5 near-black">Se você estava se perguntando como alguma fórmula funcionava, você veio ao lugar certo. Caso a documentação não responda suas perguntas, <a class='action link underline' href='mailto:suporte@grana.io'>fale com a gente.</a></p>
+  </article>
+
+  <article class="cf w-90 center pv4">
+    <div class="fl w5-l">
+      <ul class="no-list help-list pa0">
+        <li>
+          <a class="f4 fw6 black" href="#tesouro-direto-sheets">Tesouro Direto Sheets</a>
+
+          <ul class="pl3 mt2">
+            <li class="pv2"><a class="black fw4" href="#tesourodireto">Tesouro Direto</a></li>
+            <li class="pv2"><a class="black fw4" href="#tesourodiretohist">Tesouro Direto Histórico</a></li>
+          </ul>
+        </li>
+
+        <li class="mt4">
+          <a class="f4 fw6 black" href="#indicadores-sheets">Indicadores Sheets</a>
+
+          <ul class="pl3 mt2">
+            <li class="pv2"><a class="black fw4" href="#bitcoin">Bitcoin</a></li>
+            <li class="pv2"><a class="black fw4" href="#cdi">CDI</a></li>
+            <li class="pv2"><a class="black fw4" href="#dolar">Dólar</a></li>
+            <li class="pv2"><a class="black fw4" href="#ipca">IPCA</a></li>
+            <li class="pv2"><a class="black fw4" href="#igpm">IGPM</a></li>
+            <li class="pv2"><a class="black fw4" href="#poupanca">Poupança</a></li>
+            <li class="pv2"><a class="black fw4" href="#poupancaantiga">Poupança Antiga</a></li>
+            <li class="pv2"><a class="black fw4" href="#selic">SELIC</a></li>
+          </ul>
+        </li>
+
+        <li class="mt4">
+          <a class="f4 fw6 black" href="#renda-fixa-sheets">Renda Fixa Sheets</a>
+
+          <ul class="pl3 mt2">
+            <li class="pv2"><a class="black fw4" href="#cdb">CDB</a></li>
+            <li class="pv2"><a class="black fw4" href="#cdb-pre">CDBPRE</a></li>
+            <li class="pv2"><a class="black fw4" href="#lca">LCA</a></li>
+            <li class="pv2"><a class="black fw4" href="#lci">LCI</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+
+    <div class="fl fn-l ml7-l">
+      <div class="card shadow w-100 p2 mb1">
+        <article>
+          <a name="tesouro-direto-sheets" class="link dt w-100 pb2 mt2">
+            <div class="dtc w3">
+              <img class="db w-100" src="/images/tesouro-sheets-logo.png" />
+            </div>
+            <div class="dtc v-top pl2">
+              <h1 class="f4 f3-ns fw6 lh-title black mv0">Tesouro Direto Sheets</h1>
+              <h2 class="f6 f5-ns fw4 mt2 mb0 black-60">Acesse as informações do Tesouro Direto de dentro das suas planilhas.</h2>
+            </div>
+          </a>
+        </article>
+
+        <a class="f4 dib fw7 mt3 mb2" name="tesourodireto">=TESOURODIRETO(título; campo)</a>
+
+        <dl class="def">
+          <dt>título</dt>
+          <dd>O nome do título do qual se deseja obter as informações.</dd>
+          <br/>
+          <dt>campo</dt>
+          <dd>Determina qual informação se deseja obter.</dd>
+        </dl>
+
+        <dl class="def ml4">
+          <dt>tipo</dt>
+          <dd>nome oficial do título.</dd>
+          <br/>
+          <dt>vencimento</dt>
+          <dd>data de vencimento do título.</dd>
+          <br/>
+          <dt>data</dt>
+          <dd>data base da informação sobre o título.</dd>
+          <br/>
+          <dt>taxa_compra</dt>
+          <dd>a taxa do título no momento de compra.</dd>
+          <br/>
+          <dt>taxa_venda</dt>
+          <dd>a taxa do título no momento de venda.</dd>
+          <br/>
+          <dt>preco_compra</dt>
+          <dd>o preço do título para compra.</dd>
+          <br/>
+          <dt>preco_venda</dt>
+          <dd>o preço do título para venda.</dd>
+        </dl>
+
+        <p class="db mt4 mb3">Veja abaixo alguns exemplos de utilização:</p>
+        <table class="code-table w-100 td-80 mb4">
+          <thead>
+            <tr>
+              <th>Exemplo</th>
+              <th>Resultado</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                =TESOURODIRETO("Tesouro Selic 2023"; "preco_venda")
+              </td>
+              <td>9188,11</td>
+            </tr>
+            <tr>
+              <td>
+                =TESOURODIRETO("Tesouro IPCA+ 2035"; "vencimento")
+              </td>
+              <td>15/05/2035</td>
+            </tr>
+            <tr>
+              <td>
+                =TESOURODIRETO("Tesouro Prefixado 2023"; "taxa_compra")
+              </td>
+              <td>10,06</td>
+            </tr>
+            <tr>
+              <td>
+                =TESOURODIRETO("Tesouro IPCA+ com Juros Semestrais 2050"; "taxa_venda")
+              </td>
+              <td>5,43</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <a class="f4 dib fw7 mt4 mb2" name="tesourodiretohist">=TESOURODIRETOHIST(título; campo; data_inicio; data_final)</a>
+
+        <dl class="def">
+          <dt>título</dt>
+          <dd>O nome do título do qual se deseja obter as informações.</dd>
+          <br/>
+          <dt>campo</dt>
+          <dd>Determina qual informação se deseja obter.</dd>
+        </dl>
+
+        <dl class="def ml4">
+          <dt>tipo</dt>
+          <dd>nome oficial do título.</dd>
+          <br/>
+          <dt>vencimento</dt>
+          <dd>data de vencimento do título.</dd>
+          <br/>
+          <dt>data</dt>
+          <dd>data base da informação sobre o título.</dd>
+          <br/>
+          <dt>taxa_compra</dt>
+          <dd>a taxa do título no momento de compra.</dd>
+          <br/>
+          <dt>taxa_venda</dt>
+          <dd>a taxa do título no momento de venda.</dd>
+          <br/>
+          <dt>preco_compra</dt>
+          <dd>o preço do título para compra.</dd>
+          <br/>
+          <dt>preco_venda</dt>
+          <dd>o preço do título para venda.</dd>
+        </dl>
+
+        <dl class="def">
+          <dt>data_inicio</dt>
+          <dd>A data base do dado desejado ou a data de início da série histórica.</dd>
+          <br/>
+          <dt>data_final</dt>
+          <dd>A data final da série histórica</dd>
+        </dl>
+
+        <p class="db mt4 mb3">Veja abaixo alguns exemplos de utilização:</p>
+        <table class="code-table w-100 td-80">
+          <thead>
+            <tr>
+              <th>Exemplo</th>
+              <th>Resultado</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                =TESOURODIRETOHIST("Tesouro IPCA+ 2024"; "taxa_venda"; "01/01/2018")
+              </td>
+              <td>A taxa_venda do título no dia 01/01/2018</td>
+            </tr>
+            <tr>
+              <td>
+                =TESOURODIRETOHIST("Tesouro IPCA+ 2024"; "taxa_venda"; "01/01/2017"; "01/01/2018")
+              </td>
+              <td>A série da taxa_venda do título no período de 01/01/2017 a 01/01/2018</td>
+            </tr>
+            <tr>
+            <tr>
+              <td>
+                =TESOURODIRETOHIST("Tesouro IPCA+ 2024"; "taxa_venda"; TODAY()-30; TODAY())
+              </td>
+              <td>A série da taxa_venda do título no período dos últimos 30 dias</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="card shadow w-100 p2 mb1">
+        <article>
+          <a name="indicadores-sheets" class="link dt w-100 pb2 mt2">
+            <div class="dtc w3">
+              <img class="db w-100" src="/images/indicadores-sheets-logo.png" />
+            </div>
+            <div class="dtc v-top pl2">
+              <h1 class="f4 f3-ns fw6 lh-title black mv0">Indicadores Sheets</h1>
+              <h2 class="f6 f5-ns fw4 mt2 mb0 black-60">Acesse diversos indicadores econômicos sem sair da sua planilha do Google Sheets</h2>
+            </div>
+          </a>
+        </article>
+
+        <a class="f4 dib fw7 mt4 mb2" name="bitcoin">=BITCOIN(campo)</a>
+        <dl class="def">
+          <dt>campo</dt>
+          <dd>Determina qual informação se deseja obter.</dd>
+        </dl>
+
+        <dl class="def ml4">
+          <dt>bitcointoyou_compra</dt>
+          <dd>Preço de compra de 1 Bitcoin na Bitcointoyou.</dd><br/>
+
+          <dt>bitcointoyou_venda</dt>
+          <dd>Preço de venda de 1 Bitcoin na Bitcointoyou.</dd><br/>
+
+          <dt>bitcointrade_compra</dt>
+          <dd>Preço de compra de 1 Bitcoin na BitcoinTrade.</dd><br/>
+
+          <dt>bitcointrade_venda</dt>
+          <dd>Preço de venda de 1 Bitcoin na BitcoinTrade.</dd><br/>
+
+          <dt>braziliex_compra</dt>
+          <dd>Preço de compra de 1 Bitcoin na Braziliex.</dd><br/>
+
+          <dt>braziliex_venda</dt>
+          <dd>Preço de venda de 1 Bitcoin na Braziliex.</dd><br/>
+
+          <dt>flowbtc_compra</dt>
+          <dd>Preço de compra de 1 Bitcoin na FlowBTC.</dd><br/>
+
+          <dt>flowbtc_venda</dt>
+          <dd>Preço de venda de 1 Bitcoin na FlowBTC.</dd><br/>
+
+          <dt>foxbit_compra</dt>
+          <dd>Preço de compra de 1 Bitcoin na FoxBit.</dd><br/>
+
+          <dt>foxbit_venda</dt>
+          <dd>Preço de venda de 1 Bitcoin na FoxBit.</dd><br/>
+
+          <dt>mercadobitcoin_compra</dt>
+          <dd>Preço de compra de 1 Bitcoin na Mercado Bitcoin.</dd><br/>
+
+          <dt>mercadobitcoin_venda</dt>
+          <dd>Preço de venda de 1 Bitcoin na Mercado Bitcoin.</dd><br/>
+
+          <dt>negociecoins_compra</dt>
+          <dd>Preço de compra de 1 Bitcoin na NegocieCoins.</dd><br/>
+
+          <dt>negociecoins_venda</dt>
+          <dd>Preço de venda de 1 Bitcoin na NegocieCoins.</dd><br/>
+
+          <dt>agio_comercial</dt>
+          <dd>Dólar bitcoin dividido pelo dólar comercial (em porcentagem). <small><a class="action link underline" href="/blog/novos-indicadores-de-bitcoin">Leia mais.</a></small></dd><br/>
+
+          <dt>agio_turismo</dt>
+          <dd>Dólar bitcoin dividido pelo dólar turismo (em porcentagem). <small><a class="action link underline" href="/blog/novos-indicadores-de-bitcoin">Leia mais.</a></small></dd><br/>
+
+          <dt>dolar_bitcoin</dt>
+          <dd>Preço do Bitcoin no Brasil divido pelo preço do Bitcoin em dólar. <small><a class="action link underline" href="/blog/novos-indicadores-de-bitcoin">Leia mais.</a></small></dd><br/>
+
+          <dt>dolar</dt>
+          <dd>Preço do Bitcoin em dólar.</dd><br/>
+
+          <dt>data</dt>
+          <dd>Data base da informação.</dd><br/>
+        </dl>
+
+        <a class="f4 dib fw7 mt4 mb2" name="cdi">=CDI(campo)</a>
+        <dl class="def">
+          <dt>campo</dt>
+          <dd>Determina qual informação se deseja obter.</dd>
+        </dl>
+
+        <dl class="def ml4">
+          <dt>data</dt>
+          <dd>Data base da informação.</dd><br/>
+
+          <dt>atual</dt>
+          <dd>Taxa DI do dia, anualizada.</dd><br/>
+
+          <dt>mes</dt>
+          <dd>CDI acumulado no mês atual. Se a data for 25/12, o valor corresponde ao acumulado de Dezembro.</dd><br/>
+
+          <dt>ultimo_mes</dt>
+          <dd>CDI acumulado no mês anterior. Se a data for 25/12, o valor corresponde ao total de Novembro.</dd><br/>
+
+          <dt>ano</dt>
+          <dd>CDI acumulado desde o início do ano.</dd><br/>
+
+          <dt>ultimos_12_meses</dt>
+          <dd>CDI acumulado nos últimos 12 meses.</dd><br/>
+        </dl>
+
+        <p class="db mt4 mb3">Veja abaixo alguns exemplos de utilização:</p>
+        <table class="code-table w-100 td-80 mb4">
+          <thead>
+            <tr>
+              <th>Exemplo</th>
+              <th>Resultado</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                =CDI("data")
+              </td>
+              <td>25/12/2017</td>
+            </tr>
+            <tr>
+              <td>
+                =CDI("atual")
+              </td>
+              <td>6,89</td>
+            </tr>
+            <tr>
+              <td>
+                =CDI("mes")
+              </td>
+              <td>0,43</td>
+            </tr>
+            <tr>
+              <td>
+                =CDI("ultimo_mes")
+              </td>
+              <td>0,53</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <a class="f4 dib fw7 mt4 mb2" name="dolar">=DOLAR(campo)</a>
+        <dl class="def">
+          <dt>campo</dt>
+          <dd>Determina qual informação se deseja obter.</dd>
+        </dl>
+
+        <dl class="def ml4">
+          <dt>data</dt>
+          <dd>Data base da informação.</dd><br/>
+
+          <dt>comercial_compra</dt>
+          <dd>Preço de compra do Dólar comercial.</dd><br/>
+
+          <dt>comercial_venda</dt>
+          <dd>Preço de venda do Dólar comercial.</dd><br/>
+
+          <dt>turismo_compra</dt>
+          <dd>Preço de compra do Dólar turismo.</dd><br/>
+
+          <dt>turismo_venda</dt>
+          <dd>Preço de venda do Dólar turismo.</dd><br/>
+        </dl>
+
+        <a class="f4 dib fw7 mt4 mb2" name="ipca">=IPCA(campo)</a>
+        <dl class="def">
+          <dt>campo</dt>
+          <dd>Determina qual informação se deseja obter.</dd>
+        </dl>
+
+        <dl class="def ml4">
+          <dt>data</dt>
+          <dd>Data base da informação.</dd><br/>
+
+          <dt>meta</dt>
+          <dd>Meta da IPCA para o ano.</dd><br/>
+
+          <dt>mes</dt>
+          <dd>IPCA acumulado no mês (ver data).</dd><br/>
+
+          <dt>ano</dt>
+          <dd>IPCA acumulado no ano.</dd><br/>
+
+          <dt>ultimos_12_meses</dt>
+          <dd>IPCA acumulado nos últimos 12 meses.</dd><br/>
+        </dl>
+
+        <a class="f4 dib fw7 mt4 mb2" name="igpm">=IGPM(campo)</a>
+        <dl class="def">
+          <dt>campo</dt>
+          <dd>Determina qual informação se deseja obter.</dd>
+        </dl>
+
+        <dl class="def ml4">
+          <dt>data</dt>
+          <dd>Data base da informação.</dd><br/>
+
+          <dt>mes</dt>
+          <dd>IGPM acumulado no mês (ver data).</dd><br/>
+
+          <dt>ano</dt>
+          <dd>IGPM acumulado no ano.</dd><br/>
+
+          <dt>ultimos_12_meses</dt>
+          <dd>IGPM acumulado nos últimos 12 meses.</dd><br/>
+        </dl>
+
+        <a class="f4 dib fw7 mt4 mb2" name="poupanca">=POUPANCA(campo)</a>
+        <dl class="def">
+          <dt>campo</dt>
+          <dd>Determina qual informação se deseja obter.</dd>
+        </dl>
+
+        <dl class="def ml4">
+          <dt>data</dt>
+          <dd>Data base da informação.</dd><br/>
+
+          <dt>mes</dt>
+          <dd>Rendimento da poupança acumulado no mês atual. Se a data for 25/12, o valor corresponde ao acumulado de Dezembro.</dd><br/>
+
+          <dt>ultimo_mes</dt>
+          <dd>Rendimento da poupança acumulado no mês anterior. Se a data for 25/12, o valor corresponde ao total de Novembro.</dd><br/>
+
+          <dt>ano</dt>
+          <dd>Rendimento da poupança acumulado no ano.</dd><br/>
+
+          <dt>ultimos_12_meses</dt>
+          <dd>Rendimento da poupança acumulado nos últimos 12 meses.</dd><br/>
+        </dl>
+        <a class="f4 dib fw7 mt4 mb2" name="poupancaantiga">=POUPANCAANTIGA(campo)</a>
+        <dl class="def">
+          <dt>campo</dt>
+          <dd>Determina qual informação se deseja obter.</dd>
+        </dl>
+
+        <dl class="def ml4">
+          <dt>data</dt>
+          <dd>Data base da informação.</dd><br/>
+
+          <dt>mes</dt>
+          <dd>Rendimento da poupança acumulado no mês atual. Se a data for 25/12, o valor corresponde ao acumulado de Dezembro.</dd><br/>
+
+          <dt>ultimo_mes</dt>
+          <dd>Rendimento da poupança acumulado no mês anterior. Se a data for 25/12, o valor corresponde ao total de Novembro.</dd><br/>
+
+          <dt>ano</dt>
+          <dd>Rendimento da poupança antiga acumulado no ano.</dd><br/>
+
+          <dt>ultimos_12_meses</dt>
+          <dd>Rendimento da poupança antiga acumulado nos últimos 12 meses.</dd><br/>
+        </dl>
+
+        <a class="f4 dib fw7 mt4 mb2" name="selic">=SELIC(campo)</a>
+        <dl class="def">
+          <dt>campo</dt>
+          <dd>Determina qual informação se deseja obter.</dd>
+        </dl>
+
+        <dl class="def ml4">
+          <dt>data</dt>
+          <dd>Data base da informação.</dd><br/>
+
+          <dt>atual</dt>
+          <dd>Valor da taxa SELIC em vigência.</dd><br/>
+        </dl>
+      </div>
+
+      <div class="card shadow w-100 p2 mb1">
+        <article>
+          <a name="renda-fixa-sheets" class="link dt w-100 pb2 mt2">
+            <div class="dtc w3">
+              <img class="db w-100" src="/images/renda-fixa-sheets-logo.png" />
+            </div>
+            <div class="dtc v-top pl2">
+              <h1 class="f4 f3-ns fw6 lh-title black mv0">Renda Fixa Sheets</h1>
+              <h2 class="f6 f5-ns fw4 mt2 mb0 black-60">Acompanhe seus investimentos em Renda Fixa de dentro das suas planilhas.</h2>
+            </div>
+          </a>
+        </article>
+
+        <a class="f4 dib fw7 mt3 mb2" name="cdb">=CDB(investimento_inicial; rentabilidade; data_inicial)</a>
+
+        <p class="mid-gray mt0 mb3">Calcula o valor atual do investimento. Assim como muitas corretoras, só incluímos a rentabilidade do dia atual após a meia-noite. Por isso, pode haver a diferença de um dia no resultado, em relação à sua corretora.</p>
+
+        <dl class="def">
+          <dt>investimento_inicial</dt>
+          <dd>O valor do investimento inicial.</dd>
+          <br/>
+          <dt>rentabilidade</dt>
+          <dd>Rentabilidade anual em função do CDI.</dd>
+          <br/>
+          <dt>data_inicial</dt>
+          <dd>Data do início do investimento.</dd>
+        </dl>
+
+        <a class="f4 dib fw7 mt3 mb2" name="cdb-pre">=CDBPRE(investimento_inicial; rentabilidade; data_inicial)</a>
+
+        <p class="mid-gray mt0 mb3">Calcula o valor atual do CDB prefixado.</p>
+
+        <dl class="def">
+          <dt>investimento_inicial</dt>
+          <dd>O valor do investimento inicial.</dd>
+          <br/>
+          <dt>rentabilidade</dt>
+          <dd>Rentabilidade anual contratada.</dd>
+          <br/>
+          <dt>data_inicial</dt>
+          <dd>Data do início do investimento.</dd>
+        </dl>
+
+        <a class="f4 dib fw7 mt3 mb2" name="lca">=LCA(investimento_inicial; rentabilidade; data_inicial)</a>
+
+        <p class="mid-gray mt0 mb3">Atualmente segue o mesmo funcionamento do CDB.</p>
+
+        <a class="f4 dib fw7 mt3 mb2" name="lci">=LCI(investimento_inicial; rentabilidade; data_inicial)</a>
+
+        <p class="mid-gray mt0 mb3">Atualmente segue o mesmo funcionamento do CDB.</p>
+
+        <p class="db mt4 mb3">Veja abaixo alguns exemplos de utilização:</p>
+        <table class="code-table w-100 td-80">
+          <thead>
+            <tr>
+              <th>Exemplo</th>
+              <th>Resultado</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                =CDB(2000,00; 103%; "01/01/2017")
+              </td>
+              <td>2213,18</td>
+            </tr>
+            <tr>
+              <td>
+                =CDBPRE(5000,00; 9%; "01/01/2017")
+              </td>
+              <td>5562,99</td>
+            </tr>
+            <tr>
+              <td>
+                =LCI(5000,00; 88%; "02/01/2017")
+              </td>
+              <td>5451,95</td>
+            </tr>
+            <tr>
+              <td>
+                =LCA(3000,00; 90%; "03/01/2017")
+              </td>
+              <td>3277,61</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </article>
+</section>

@@ -59,86 +59,47 @@
         </ul>
       </nav>
 
-      <section class="bg-near-white">
-        <section class="flex-ns center pa3">
-            <div class="w-100 p4-ns">
-              <div class="bg-light-red pa3">
-                <svg class="w1" data-icon="info" viewBox="0 0 32 32" style="fill:currentcolor">
-                  <title>info icon</title>
-                  <path d="M16 0 A16 16 0 0 1 16 32 A16 16 0 0 1 16 0 M19 15 L13 15 L13 26 L19 26 z M16 6 A3 3 0 0 0 16 12 A3 3 0 0 0 16 6"></path>
-                </svg>
+<section class="bg-super-light-blue">
+  <article class="cf w-90 w-60-l mw7 center pv4 tc">
+    <h1 class="fw5">Guia de Instalação</h1>
+  </article>
 
-                <span class="lh-title ml3">Os complementos do Grana.io agora devem ser instalados de acordo com <a class="black underline" href="/ajuda-google-sheets">o novo guia de instalação.</a> (16/03/2019)</span>
-              </div>
-            </div>
-        </section>
-
-        <div id="blog-sidebar" class="flex-ns center pa5-ns">
-          <section class="w-100 w-75-ns pr3-ns">
-            <div class="bg-white pa4">
-{{ content }}
-
-
-            </div>
-          </section>
-
-          <section class="w-100 w-25-ns">
-            <div class="pa3 bg-white">
-              <img class="dib" src="TODO" />
-              <p class="mv3 tc blue">SEJA BEM-VINDO!</p>
-              <p class="mv0 lh-copy">Meu nome é Bruno e eu sou o autor e fundador do <a href='/'>Grana.io</a></p>
-							<p class="mt2 mb0 lh-copy">Eu criei esse espaço para compartilhar o meu caminho rumo à simplificação das finanças pessoais e investimentos.</p>
-            </div>
-
-            <div class="tc mv3 w-100">
-              <!-- Sidebar 1 -->
-              <ins class="adsbygoogle"
-                   style="display:inline-block;width:300px;height:250px"
-                   data-ad-client="ca-pub-6741581522749185"
-                   data-ad-slot="4363582771"></ins>
-              <script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-              </script>
-            </div>
-
-            <div class="bg-white pa3">
-              <!-- Begin MailChimp Signup Form -->
-              <div id="mc_embed_signup">
-                <form action="https://grana.us16.list-manage.com/subscribe/post?u=a5a6f731b031516edc99accfe&amp;id=328328f4bb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                  <div id="mc_embed_signup_scroll">
-                    <h2 class="mv2 f4 fw5">Novidades</h2>
-                    <p class="lh-copy mv1">Receba as nossas melhores dicas de investimentos e finanças pessoais.</p>
-                    <div class="mc-field-group">
-                      <input type="email" value="" name="EMAIL" placeholder="Seu email" class="required email w-100 pa2 mv2" id="mce-EMAIL">
-                    </div>
-                    <div id="mce-responses" class="clear">
-                      <div class="response" id="mce-error-response" style="display:none"></div>
-                      <div class="response" id="mce-success-response" style="display:none"></div>
-                    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a5a6f731b031516edc99accfe_328328f4bb" tabindex="-1" value=""></div>
-                    <div class="clear"><input class="pointer tc br3 f6 ph3 pv2 fw6 mv2 dib grow bg-action white" type="submit" value="Quero Receber →" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-                  </div>
-                </form>
-              </div>
-              <!--End mc_embed_signup-->
-            </div>
-
-            <div class="tc mv3 w-100 overflow-hidden" style="min-height: 400px;">
-              <!-- Sidebar 2-->
-              <ins class="adsbygoogle"
-                   style="display:block"
-                   data-ad-client="ca-pub-6741581522749185"
-                   data-ad-slot="5248879913"
-                   data-ad-format="auto"></ins>
-              <script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-              </script>
-            </div>
-          </section>
-        </div>
-      </section>
+  <article class="cf w-80 center pv4">
+    <div class="card shadow w-100 p2 mb1">
+      <h2 style="margin-top: 1em">Passo 0: Entendendo o que aconteceu</h2>
+      <p class="f5 near-black">No dia 15/03/2019 os complementos do Grana.io foram acidentalmente removidos. O processo de registro de um complemento é demorado e doloroso, portanto os complementos devem ser instalados conforme os passos abaixo de agora em diante.</p>
+      <p class="f5 near-black">É necessário realizar os passos em cada planilha em que você quiser usar os complementos do Grana.io.</p>
+      <p class="f5 near-black">Em caso de dúvidas, <a class='action link underline' href='mailto:suporte@grana.io'>fale com a gente.</a></p>
+      <h2>Passo 1: Clicar em Ferramentas -> Editor de Script.</h2>
+      <p>Uma nova aba será abarta com o editor de script.</p>
+      <br/>
+      <div><img src="<%= static_path(@conn, "/images/step1.png") %>" /></div>
+      <h2>Passo 2: Apagar o conteúdo do arquivo "Código.gs".</h2>
+      <div><img src="<%= static_path(@conn, "/images/step2.png") %>" /></div>
+      <h2>Passo 3: Copiar o conteúdo do link abaixo e colar no "Código.gs".</h2>
+      <p>Clique aqui para <a href="https://raw.githubusercontent.com/buccolo/grana-io-sheets/master/code.js" target="_blank">ver o conteúdo.</a> É importante ter certeza que TODO o conteúdo foi copiado e colado.</p>
+      <br/>
+      <div><img src="<%= static_path(@conn, "/images/step3.png") %>" /></div>
+      <h2>Passo 4: Salvar e testar</h2>
+      <p>Clique no ícone do disquete para salvar. Será perguntato o nome do projeto, você pode digitar o que quiser e clicar Ok. Espere alguns segundos e quando a operação tiver terminado você pode fechar essa aba do navegador.</p>
+      <p>Voltando para a planilha original, digite a seguinte fórmula para testar:</p>
+      <pre>=TESOURODIRETO("Tesouro Selic 2023";"preco_venda")</pre>
+      <p>Durante o uso, você pode ver a mensagem "Função desconhecida", porém isso não afeta o funcionamento.</p>
+      <br/>
+      <div><img src="<%= static_path(@conn, "/images/step4.png") %>" /></div>
+      <h2>Passo 5: Entendendo o futuro do Grana.io</h2>
+      <p>Infelizmente o Grana.io não foi um projeto bem sucedido. Não houve interesse suficiente de usuários e o projeto deve encerrar assim que o último assinante completar 1 ano de uso no dia 13 de Julho de 2019.</p>
+      <p>A cobrança recorrente foi devidamente encerrada na Cielo no final de 2018, portanto ninguém será cobrado novamente.</p>
+      <p>O projeto pode continuar funcionando depois dessa data acima para quem foi assinante. Porém, não há garantias de quanto tempo ele ficará disponível.</p>
+      <p>Peço desculpas pelo inconveniente e agradeço pelo interesse dos poucos usuários que tivemos.</p>
+      <p>Bruno Buccolo</p>
     </div>
+  </article>
 
+  <style>
+  h2 { margin-top: 1.5em; }
+  </style>
+</section>
 
 
 <section class="bg-dark pa4">
